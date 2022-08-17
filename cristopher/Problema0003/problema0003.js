@@ -9,4 +9,4 @@ var peso3 = parseFloat(prompt("Agora, digite o peso da terceira nota: "));
 
 var notaFinal = ((nota1 * peso1) + (nota2 * peso2) + (nota3 * peso3)) / (peso1 + peso2 + peso3);
 
-console.log("O resultado da média ponderada é: " + notaFinal);
+console.log("O resultado da média ponderada é de: " + notaFinal);

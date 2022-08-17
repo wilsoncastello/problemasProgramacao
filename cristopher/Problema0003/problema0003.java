@@ -21,7 +21,7 @@ public class problema0003{
 
         float notaFinal = ((nota1 * peso1) + (nota2 * peso2) + (nota3 * peso3)) / (peso1 + peso2 + peso3);
 
-        System.out.println("O resultado da média ponderada é: " + notaFinal);
+        System.out.println("O resultado da média ponderada é de: " + notaFinal);
 
         input.close();
 
