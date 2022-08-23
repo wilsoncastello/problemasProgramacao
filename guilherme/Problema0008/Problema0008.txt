@@ -1,0 +1,14 @@
+Código	
+0008
+Tópico	
+Expressões
+Dificuldade	
+Médio	
+Descrição	
+Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
+Entradas
+800	5
+5000	28
+Saídas
+40	840
+1400	6400
