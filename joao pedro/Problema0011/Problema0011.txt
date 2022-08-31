@@ -1,0 +1,16 @@
+Código
+0010
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba um número positivo e maior que zero, calcule e mostre: 
+a) o número digitado ao quadrado; b) o número digitado ao cubo; c) a raiz quadrada do número digitado; d) a raiz cúbica do número digitado.
+Entradas
+2    7    10
+Saídas
+4         49        100
+8         343       1000
+1.414     2.645     3.162
+1.259     1.912     2.154

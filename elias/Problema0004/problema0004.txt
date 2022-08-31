@@ -1,0 +1,15 @@
+Código	
+0004
+Tópico	
+Expressões
+Dificuldade	
+Fácil	
+Descrição	
+Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
+Entradas
+base  altura
+  5     3
+2.7    3.2
+Saídas
+7.5
+4.32
