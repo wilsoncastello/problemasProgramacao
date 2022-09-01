@@ -1,0 +1,15 @@
+Código
+0067
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Uma empresa produz três tipos de peças mecânicas: parafusos, porcas e arruelas. Tem-se os preços unitários de cada tipo de peça e sabe-se que sobre esses preços incidem descontos de 10% para porcas, 20% para parafusos e 30% para arruelas.
+Escreva um algoritmo que calcule o valor total da compra de um cliente. Deve ser mostrado o nome do cliente, o número de cada tipo de peça que comprou, o total de desconto e o total a pagar pela compra.
+Entradas
+João    5    5.50    2    2.5    3    4
+Maria   3    2       9    1      3    1.5
+Saídas
+Joao    5    2    3    7.35    37.15
+Maria   3    9    3    3.75    15.75
