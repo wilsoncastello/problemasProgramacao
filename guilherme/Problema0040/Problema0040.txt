@@ -1,0 +1,14 @@
+Código	
+0040
+Tópico	
+Expressões
+Dificuldade	
+Muito Fácil	
+Descrição	
+Faça um programa que leia um número real e imprima a terça parte deste número.
+Entradas
+81  
+23.1    
+Saídas
+27
+7.7
