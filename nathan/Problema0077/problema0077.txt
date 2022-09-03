@@ -1,0 +1,16 @@
+Código	
+0061
+Tópico	
+Expressões
+Dificuldade	
+Facil	
+Descrição	
+Elaborar um programa que leia dois valores numéricos reais desconhecidos representados pelas variáveis A e B. Calcular e apresentar os resultados das quatro operações aritméticas básicas.
+Entradas
+5   8
+9   3
+15 4
+Saídas
+13  -3  40  0.625
+12  6   27  3   
+19  11  60  3.75
