@@ -1,0 +1,14 @@
+Código	
+0025
+Tópico	
+Expressões
+Dificuldade	
+Médio	
+Descrição	
+Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.
+Entradas
+100
+25
+Saídas
+90
+22.5
