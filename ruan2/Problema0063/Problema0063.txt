@@ -1,0 +1,18 @@
+Código
+0063
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Faça um algoritmo que leia os preços de três mercadorias em 01/04 e 01/05 e tendo como base a variação dos preços dessas mercadorias, calcule a taxa de inflação ocorrida neste período.
+Entradas
+500	550
+200	220
+4.5	7.25
+2.5	1.5
+Saída
+10
+10
+61.1
+-40
