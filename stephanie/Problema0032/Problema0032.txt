@@ -1,0 +1,17 @@
+Código
+0032
+Tópico
+Expressões
+Dificuldade
+Fácil
+Descrição
+Faça um programa que receba uma temperatura em Celsius, calcule e mostre essa temperatura em Fahrenheit. 
+Sabe-se que F = 180*(C + 32)/100.
+Entradas
+15
+-8
+22
+Saídas
+59
+17,6
+71,6

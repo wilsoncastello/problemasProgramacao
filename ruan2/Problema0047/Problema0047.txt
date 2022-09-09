@@ -1,0 +1,16 @@
+Código
+0047
+Tópico
+Expressões
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia os valores dos catetos de um triângulo retângulo e imprimir a hipotenusa.
+Entradas
+3	4
+6	8
+12	24
+Saída
+5
+10
+26.8
