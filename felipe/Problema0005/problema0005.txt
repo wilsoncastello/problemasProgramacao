@@ -1,0 +1,14 @@
+Código	
+0005
+Tópico	
+Expressões
+Dificuldade	
+Fácil	
+Descrição
+Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R² .
+Entradas
+6
+15
+Saídas
+113.09
+706.85

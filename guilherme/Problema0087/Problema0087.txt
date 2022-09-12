@@ -1,0 +1,15 @@
+Código	
+0087
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Elabore um algoritmo que tome como entrada um determinado horário, expresso por hora (valor inteiro de 0 a 23), minuto (valor de 0 a 59) e segundo (valor de 0 a 59) e imprima esse horário acrescido de 1 segundo. Cada hora tem 60 minutos e cada minuto sem 60 segundos. O incremento de um segundo no horário, além de alterar o valor do segundo, pode implicar em alterações no valor do minuto e da hora. Veja que um horário como 13:59:59 acrescido de 1 segundo vai para 14:00:00.
+Entradas
+19  21  30
+13  59  59
+Saídas
+19  21  31
+14  00  00
+

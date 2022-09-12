@@ -1,0 +1,18 @@
+Código
+0007
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
+Entradas
+1000	25.5
+500	50
+3000	0
+2000	-10
+Saídas
+255	1255
+250	750
+0	3000
+-200	1800

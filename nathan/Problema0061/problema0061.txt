@@ -1,0 +1,16 @@
+Código	
+0061
+Tópico	
+Seleção
+Dificuldade	
+Medio	
+Descrição	
+Considerando que X e Y representam, respectivamente, a abscissa e a ordenada de um ponto, escreva uma expressão lógica que assuma o valor "verdadeiro" caso o ponto em questão esteja no quadrante 2 e que assuma o valor "falso" caso não esteja no quadrante 2.
+Entradas
+-1  1
+-1  -1
+1 -1
+Saídas
+True
+False
+False

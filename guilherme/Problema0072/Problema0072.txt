@@ -1,0 +1,14 @@
+Código	
+0072
+Tópico	
+Expressões
+Dificuldade	
+Médio
+Descrição	
+Faça um algoritmo que leia um valor inteiro positivo e menor que 1000, armazene-o numa variável do tipo "Inteiro" e determine a soma dos dígitos que formam o valor. Exemplo: o valor 397 tem soma dos dígitos igual a 19. Sugestão: Use as operações "div" e "resto".
+Entradas
+397	
+430	
+Saídas
+19
+7	
