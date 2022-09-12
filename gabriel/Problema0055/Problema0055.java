@@ -21,7 +21,8 @@ public class Problema0055 {
         // cálculo
         QuadradoDiferenca = (n1 - n2) * (n1 - n2);
         DiferencaQuadrados = (n1 * n1) - (n2 * n2);
-    
+
+        //saída
         System.out.println("O quadrado da diferença de n1 para n2: " + QuadradoDiferenca);
         System.out.println("A diferença do quadrado de n1 para o quadrado de n2: " + DiferencaQuadrados);
     
