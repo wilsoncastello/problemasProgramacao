@@ -1,6 +1,6 @@
 import math as math
-cm = input("Digite o raio do círculo em cm: ")
+cm = float(input("Digite o raio do círculo em cm: "))
 
-area = math.pi * float(cm)**2
+area = math.pi * cm**2
 
-print("A área deste círculo é de: "+str(area)) 
+print("A área deste círculo é de: ", area)

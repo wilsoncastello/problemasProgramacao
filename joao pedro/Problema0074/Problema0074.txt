@@ -1,0 +1,14 @@
+Código
+0074
+Tópico 
+Expressões
+Dificuldade
+Fácil
+Descrição
+Elaborar um programa que apresente o valor da conversão em real (R$) de um valor lido em dólar (US$). O programa deve solicitar o valor da cotação do dólar e também a quantidade de dólares disponível com o usuário.
+Entradas
+5	2	4.3
+10	9	6
+
+Saídas
+50	18	25.79
