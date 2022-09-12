@@ -1,0 +1,18 @@
+Código
+0023
+Tópico
+Expressões
+Dificuldade
+Muito facil
+Descrição
+Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo. 
+Entradas
+5	3
+0	4
+-5	3
+5.5	2.2
+Saídas
+2
+-4
+-8
+3.3
