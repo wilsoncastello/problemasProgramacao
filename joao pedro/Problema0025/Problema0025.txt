@@ -1,0 +1,14 @@
+Código 
+0025
+Tópico 
+Expressões 
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba o peso de uma pessoa, calcule e mostre: a) o novo peso, se a pessoa engordar 15% sobre o peso digitado; b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+
+Entradas
+60	100	85
+Saídas
+69	114.9	97.74
+48	80	68

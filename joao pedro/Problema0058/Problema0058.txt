@@ -1,0 +1,17 @@
+Código
+Tópico
+Expressões
+0058
+Dificuldade 
+Médio
+Descrição
+Suponha que um caixa disponha apenas de notas de 1, 10 e 100 reais. Considerando que alguém está pagando uma compra, escreva um algoritmo que mostre o número mínimo de notas que o caixa deve fornecer como troco. Mostre também o valor da compra, o valor do troco e a quantidade de cada tipo de nota do troco (notas de 1, 10 e 100). Suponha que o sistema monetário não utilize centavos.
+
+Entradas
+100   10
+120   13
+
+Saídas
+0   0
+2   0
+0   3
