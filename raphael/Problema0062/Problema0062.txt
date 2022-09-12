@@ -1,0 +1,14 @@
+Código
+0062
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Uma pessoa comprou quatro artigos em uma loja. Para cada artigo, tem-se o nome, preço e percentual de desconto. Faça um algoritmo que imprima nome, preço e preço com desconto de cada artigo. Imprima também o total a pagar.
+Entradas
+2000    50 
+50    50
+Saída
+1000
+25
