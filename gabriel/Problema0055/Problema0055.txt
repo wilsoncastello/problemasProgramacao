@@ -1,0 +1,18 @@
+Código
+0055
+Tópico
+Expressões
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia dois numeros reais e imprima o quadrado da diferença do primeiro valor pelo segundo e a diferença dos quadrados.
+Entradas
+5	4
+3	5
+-1	5
+0	-4
+Saídas
+1	9
+4	-16
+36	-24
+16	-16

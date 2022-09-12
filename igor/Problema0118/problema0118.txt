@@ -1,0 +1,18 @@
+Código	
+0118
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que leia a sigla do estado de uma pessoa e imprimir uma mensagem semelhante às mensagens a seguir:
+Você é carioca
+Você é paulista
+Você é caterinense
+.....  (deve-se imprimir uma mensagem para cada estado brasileiro e para o distrito federal).
+Entradas
+BA
+SC
+Saídas
+Você é baiano
+Você é catarinense

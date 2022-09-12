@@ -1,0 +1,26 @@
+Código
+0042
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Faça um programa que leia um ângulo em graus e imprima: seno, co-seno, tangente, secante, co-secante e co-tangente deste ângulo.
+
+Entradas
+120	20
+Saídas
+
+Seno de 120: 0.8660254037844387 
+Cosseno de 120: -0.4999999999999998
+Tangente de 120: -1.7320508075688783
+Secante de 120: -2.000000000000001
+Cossecante de 120: 1.1547005383792515
+Cotangente de 120: -0.5773502691896254
+
+Seno de 20: 0.3420201433256687
+Cosseno de 20: 0.9396926207859084
+Tangente de 20: 0.36397023426620234
+Secante de 20: 1.064177772475912
+Cossecante de 20: 2.9238044001630876
+Cotangente de 20: 2.7474774194546225

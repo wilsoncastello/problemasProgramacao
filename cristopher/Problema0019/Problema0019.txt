@@ -1,0 +1,17 @@
+Código
+0019
+Tópico
+Expressões
+Dificuldade
+Difícil
+Descrição
+Faça um programa que receba a medida do ângulo (em graus) formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. 
+Calcule e mostre a medida dessa escada. Observação: as funções trigonométricas implementadas nas linguagens de programação trabalham com medidas de ângulos em radianos.
+Entradas
+60  5
+140 5
+90  3
+Saídas
+5.775273663573781
+7.76715873816584
+3.0000009512047976

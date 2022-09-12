@@ -1,0 +1,14 @@
+Código	
+0029
+Tópico	
+Expressões
+Dificuldade	
+Fácil	
+Descrição	
+Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que esse funcionário ganha.
+Entradas
+1250    5300
+980 3700
+Saídas
+4.24
+3.77

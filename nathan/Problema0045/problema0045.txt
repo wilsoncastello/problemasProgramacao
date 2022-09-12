@@ -1,0 +1,14 @@
+Código	
+0045
+Tópico	
+Expressões
+Dificuldade	
+Medio	
+Descrição	
+Faça um programa que leia um número e imprima a seguinte saída: número: quadrado: raíz quadrada:
+Entradas
+16
+36
+Saídas
+16  256 4
+36  1296    6
