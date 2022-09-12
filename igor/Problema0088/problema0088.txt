@@ -1,0 +1,16 @@
+Código	
+0088
+Tópico	
+Seleção
+Dificuldade	
+Muito fácil
+Descrição	
+Escreva um algoritmo que, para um determinado valor, informe se este é positivo, negativo ou zero.
+Entradas
+3
+-6
+0
+Saídas
+positivo
+negativo
+0

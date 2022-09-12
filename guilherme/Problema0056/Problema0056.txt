@@ -1,0 +1,14 @@
+Código	
+0056
+Tópico	
+Expressões
+Dificuldade	
+Difícil
+Descrição	
+Uma pessoa resolveu fazer uma aplicação em uma poupança programada. Para calcular seu rendimento, ela deverá fornecer o valor constante da aplicação mensal, a taxa e o número de meses. Sabendo-se que a fórmula usada para este cálculo é: valor acumulado = P * ((1+i)^n - 1) / i i = taxa, p = aplicação mensal, n = número de meses
+Entradas
+5	0.1	1	
+10	0.02	2
+Saídas
+45
+470.2

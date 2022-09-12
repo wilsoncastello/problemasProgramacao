@@ -1,0 +1,27 @@
+Código
+0031
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba o raio, calcule e mostre: 
+a) o comprimento de uma esfera; sabe-se que C = 2 * π R; 
+b) a área de uma esfera; sabe-se que A = 4 π R²; 
+c) o volume de uma esfera; sabe-se que V = 4/3 * π R³. 
+Entradas
+5
+1
+24
+Saída
+comprimento: 31.4
+area: 314
+volume: 523.3
+
+comprimento: 6.28
+area: 12.56
+volume: 4.18
+
+comprimento: 150.72
+area: 7234
+volume: 57876.48

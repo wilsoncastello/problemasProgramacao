@@ -1,0 +1,14 @@
+Código
+0048
+Tópico
+Expressões
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia a razão de uma PA e o valor do 1° termo, calcule e imprima o 5° termo da série.
+Entradas
+-3   2
+5   -6
+Saídas
+-10
+14

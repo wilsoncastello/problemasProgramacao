@@ -1,0 +1,14 @@
+Código	
+0103
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Escreva um algoritmo que leia duas datas, cada data expressa por dia do mês (valor inteiro de 1 a 31), mês (valor inteiro de 1 a 12) e ano (valor inteiro). Considerando que a primeira data representa a data atual e que a segunda representa a data de vencimento de uma duplicata, o algoritmo deve informar se a duplicata está ou não vencida. Considere que o usuário sempre digitará datas válidas.
+Entradas
+9	9	2022	6	5	2022
+9	9	2022	8	9	2022
+Saídas
+Nao esta vencida
+Esta vencida
