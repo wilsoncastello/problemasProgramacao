@@ -1,0 +1,18 @@
+Código
+0020
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade
+de quilowatts consumida por uma residência, calcule e mostre: 
+a) o valor de cada quilowatt; 
+b) o valor a ser pago por essa residência; 
+c) o valor a ser pago com multa de 15%, caso o pagamento seja feito em atraso.
+Entradas
+1000    2
+1550    3
+Saídas
+200  400  459.99
+310  930  1069.5
