@@ -10,15 +10,15 @@ troco=compra-valor;
 console.log("Troco: "+troco);
 console.log("Valor da compra: "+valor);
 
-x =troco/100;
-console.log("Notas de 100: ", x);
+x=troco/100;
 
-troco = troco-(100*x);
+console.log("Notas de 100: "+parseInt(x));
 
-y = (troco-x)%10;
+y=troco/10;
 
-console.log("Notas de 10:", y);
+console.log("Notas de 10: "+parseInt(y));
 
-troco = troco-(10*y);
-z = (troco-(y*10)) % 1;
-console.log("Notas de 1: ", z);
+z=troco%10;
+console.log("Notas de 1: "+parseInt(z));
+
+

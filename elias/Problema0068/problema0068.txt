@@ -1,0 +1,15 @@
+Código
+0068
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Considerando que, para um consórcio, sabe-se o número total de prestações, a quantidade de prestações pagas e o valor atual da prestação. 
+Escreva um algoritmo que determine o total pago pelo consorciado e o saldo devedor. 
+Entradas
+12  5  159.90
+48  32  1235
+Saídas
+799.50  1119.30
+39520   19760
