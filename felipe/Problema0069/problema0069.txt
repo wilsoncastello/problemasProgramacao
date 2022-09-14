@@ -1,0 +1,16 @@
+Código	
+0069
+Tópico	
+Expressões
+Dificuldade	
+Médio
+Descrição
+Dado que se tem o valor de um ângulo expresso em graus, minutos e segundo (exemplo: 35°47'59''), escreva um algoritmo que forneça o valor desse ângulo em radianos.
+Entradas
+55  45  0
+45  12  59
+180 25  30
+Saídas
+0.973
+0.789
+3.149
