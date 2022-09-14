@@ -1,0 +1,16 @@
+Código
+0064
+Tópico
+Expressões
+Dificuldade
+Fácil
+Descrição
+Suponha que você foi ao supermercado e comprou: "N" quilos de café, cujo custo unitário é "Q"; "L" litros de
+leite, cujo custo unitário é "P"; "B" quilos de banana, cujo custo unitário é "T". Faça um algoritmo que
+imprima: nome do produto, total gasto com cada produto e o total gasto no mercado.
+Entradas
+2   9,90    12   5,30    0,5     3,98
+3   15,99    1   5,99    2     5
+Saídas
+19,80   63,60   1,99   85,39
+47,97   5,99    10   63,96

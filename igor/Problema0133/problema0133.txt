@@ -1,0 +1,26 @@
+Código	
+0088
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Um comerciante calcula o valor da venda, tendo em vista a tabela a seguir:
+
+VALOR DA COMPRA                                    VALOR DA VENDA
+Valor < R$ 100,00                                            lucro de 70%
+R$100,00 <= valor < R$ 300,00                         lucro de 50%
+R$300, 00 <= valor < R$ 500,00                        lucro de 40%
+Valor >= R$500,00                                           lucro de 30%
+
+Crie um algoritmo que possa entrar com nome do produto e valor da compra e imprimir o nome do produto e o valor da venda.
+Entradas
+100
+99
+300
+500
+Saídas
+50
+69.3
+120
+150

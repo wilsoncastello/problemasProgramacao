@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class problema0005 {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double raio, area;
@@ -10,7 +9,7 @@ public class problema0005 {
 
         area = Math.PI * Math.pow(raio, 2);
 
-        System.out.println("A área deste círculo é de: " + area);
+        System.out.print("A área deste círculo é de: " + area);
     }
 
 } 
