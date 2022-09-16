@@ -1,0 +1,17 @@
+Código
+0142
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Uma pessoa deseja pregar um quadro em uma parede. Faça um programa para calcular e mostrar a que distância a base da escada deve estar da parede, para que a sua ponta fique na altura em que o quadro deve ser pregado. A pessoa deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro.
+Deve-se verificar se o tamanho da escada informado é maior que a altura que se deseja alcançar, caso não seja deve-se apresentar uma mensagem informando que a escada é muito pequena para a tarefa.
+Entradas
+3   2.5
+4   3
+3   7
+Saídas
+1.6583124
+2.6457512
+"A escada é muito pequena."
