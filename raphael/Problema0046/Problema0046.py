@@ -1,3 +1,5 @@
+# -- coding: utf-8 --
+
 #Faça um programa que leia um número no formato CDU e imprima-o invertido: UDC. (Exemplo: 123, sairá 321.) O numero deverá ser armazenado em outra váriavel antes de ser impresso.
 
 cdu = int(input("Digite um numero com 3 casas decimais: "))
