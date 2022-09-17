@@ -1,0 +1,14 @@
+Código	
+0092
+Tópico	
+Seleção
+Dificuldade	
+Facil	
+Descrição	
+Construa um algoritmo que leia o nome e a quantidade em estoque de quatro produtos e mostre quais produtos estão abaixo do estoque mínimo. (30 unidades).
+Entradas
+"Pao"   33  "Queijo"    12  "Sonho" 25  "Bolo"  45
+"Manteiga"  12  "Leite" 40  "Chocolate" 85  "Banana"    19
+Saídas
+"Queijo"    "Sonho"
+"Manteiga"  "Banana"

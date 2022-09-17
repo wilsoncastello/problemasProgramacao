@@ -1,0 +1,14 @@
+Código	
+0137
+Tópico	
+Seleção
+Dificuldade	
+Medio	
+Descrição	
+Criar um algoritmo que leia uma data (dia, mês e ano em separado) e imprima se a data é válida ou não. 
+Entradas
+20  12  2022
+0   6   1978
+Saídas
+True
+False
