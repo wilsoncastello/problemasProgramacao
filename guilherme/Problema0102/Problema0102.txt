@@ -1,0 +1,14 @@
+Código	
+0102
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Escreva um algoritmo que tome como entradas as coordenadas de um ponto (abscissa e ordenada) e imprima em que quadrante (1, 2, 3 ou 4) o ponto está localizado.
+Entradas
+-1   2
+4  -3
+Saídas
+2
+3
