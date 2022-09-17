@@ -1,0 +1,19 @@
+Código
+0104
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra, e mostre, em seguida, os quatro números em ordem decrescente. Considere que o usuário digitará quatro números diferentes.
+
+Entradas
+2 4 6 3
+2 4 6 9
+2 4 6 1
+
+
+Saídas
+6 4 3 2
+9 6 4 2
+1 2 4 6
