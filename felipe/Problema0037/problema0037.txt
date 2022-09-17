@@ -1,0 +1,19 @@
+Código	
+0037
+Tópico	
+Expressões
+Dificuldade	
+Médio	
+Descrição
+Faça um programa que receba a quantidade de dinheiro em reais que uma pessoa que vai viajar possui. 
+Ela vai passar por três países e precisa converter seu dinheiro em dólares, euro e libra esterlina. 
+Sabe-se que o viajante dividirá o seu dinheiro em três partes iguais e converterá cada uma delas para uma moeda, com base na seguinte cotação:
+um dólar custa R$ 5,10; um euro custa R$ 5,30; uma libra custa R$ 6,05 O programa deve fazer as conversões e mostrá-las.
+Entradas
+900
+1350
+5874.63
+Saídas
+58.82   56.60   49.58
+88.23   84.90   74.38
+323.67  369.47  323.67

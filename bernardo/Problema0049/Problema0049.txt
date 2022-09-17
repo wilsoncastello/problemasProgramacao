@@ -1,0 +1,14 @@
+Código	
+0049
+Tópico	
+Expressões
+Dificuldade	
+Fácil
+Descrição	
+Faça um programa que leia a razão de uma PG, o valor do 1° termo e a posição do elemento a ser encontrado (n), calcule e imprima o n° termo da série.20  800  0
+Entradas
+3  2  5	 	
+0.5  1  2	
+Saídas
+162
+0.5

@@ -1,0 +1,18 @@
+n = input("Quantos quilos de café você comprou? ")
+q = input("Qual era o valor unitário do café? ")
+l = input("Quantos litros de leite você comprou? ")
+p = input("Qual era o valor unitário do leite? ")
+b = input("Quantos quilos de banana você comprou? ")
+t = input("Qual era o valor unitário da banana? ")
+
+nq = float(n) * float(q)
+lp = float(l) * float(p)
+bt = float(b) * float(t)
+total = float(nq) + float(lp) + float(bt)
+
+print("")
+print("Total gasto com café: ",nq)
+print("Total gasto com leite: ",lp)
+print("Total gasto com banana: ",bt)
+print("")
+print("Total gasto: ",total)

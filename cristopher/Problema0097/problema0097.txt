@@ -1,0 +1,18 @@
+Código
+0097
+Tópico
+Seleção
+Dificuldade
+Difícil
+Descrição
+Faça um algoritmo que leia três valores e verifique se estes podem representar os lados de um triângulo. Em caso afirmativo, especificar o tipo do triângulo. Para que os valores representem os lados de um triângulo é necessário que: a) Todos os valores sejam positivos; b) Qualquer um dos lados seja menor que a soma dos outros dois lados. Um triângulo pode ser classificado como equilátero (três lados iguais), isósceles (dois lados iguais) ou escaleno (todos os lados diferentes).
+Entradas
+3   4   5
+4   5   4
+7   2   1
+3   3   3
+Saídas
+"É um triângulo escaleno."
+"É um triângulo isósceles."
+"Não é um triângulo."
+"É um triângulo equilátero."
