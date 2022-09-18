@@ -1,0 +1,16 @@
+Código
+0052
+Tópico
+Expressões
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia dois valores e armazene-os nas variáveis A e B, efetue a troca dos valores de forma que a variável A passe 
+a ter o valor  variável B e que a variável B passe a ter o valor da váriavel A. Por fim, o programa deve apresentar os valores trocados.
+Entradas
+  n1    n2
+  8     1
+  7,5   -9
+Saídas
+  1     8
+  -9    7,5

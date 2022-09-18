@@ -1,0 +1,14 @@
+Código
+0046
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Faça um programa que leia um número no formato CDU e imprima-o invertido: UDC. (Exemplo: 123, sairá 321.) O numero deverá ser armazenado em outra váriavel antes de ser impresso.
+Entradas
+952  
+123
+Saída
+259
+321

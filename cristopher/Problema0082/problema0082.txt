@@ -1,0 +1,16 @@
+Código
+0082
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Elabore um algoritmos que leia dois valores inteiros positivos e determina se um é múltiplo do outro ou não. Um valor é múltiplo de outro se, considerando a divisão inteira de um pelo outro, o resto desta divisão for zero.
+Entradas
+3   21
+25  5
+45  2
+Saídas
+"São Múltiplos."
+"São Múltiplos."
+"Não são múltiplos."

@@ -1,0 +1,18 @@
+Código
+0119
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Crie um algoritmo que leia dois números inteiros positivos e imprima o quadrado do menor número e a raiz quadrada do maior número.
+
+Entradas
+2 100
+
+25 3
+
+Saídas	
+4 10
+
+5 9

@@ -1,0 +1,16 @@
+Código	
+0053
+Tópico	
+Expressões
+Dificuldade	
+Fácil
+Descrição
+Crie um algoritmo que leia o numerador e o denominador de uma fração e transforme-o em um número decimal.
+Entradas
+56  48
+10  7
+257 54
+Saídas
+1.16
+1.42
+4.75

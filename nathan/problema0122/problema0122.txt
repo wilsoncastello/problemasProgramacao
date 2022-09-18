@@ -1,0 +1,17 @@
+Código	
+0122
+Tópico	
+Seleção
+Dificuldade	
+Facil	
+Descrição	
+Faça um algoritmo que possa converter uma determinada quantia dada em reais para uma das moedas abaixo. O usuário deve digitar a quantia em reais e o código da moeda a ser convertida]:
+L - Libra esterlina
+D - Dólar
+E - Euro
+Entradas
+1000    'L'
+1000    'D'
+Saídas
+1000    'L' 170
+1000    'D' 190

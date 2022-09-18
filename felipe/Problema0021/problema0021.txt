@@ -1,0 +1,16 @@
+Código	
+0021
+Tópico	
+Expressões
+Dificuldade	
+Médio	
+Descrição
+Faça um programa que receba um número real, encontre e mostre: a) a parte inteira desse número; b) a parte fracionária desse número; c) o arredondamento desse número.
+Entradas
+5.36
+7.28
+10.86
+Saídas
+5   0.36    5
+7   0.28    7
+10  0.859    11
