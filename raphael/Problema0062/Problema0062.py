@@ -1,3 +1,5 @@
+# -- coding: utf-8 --
+
 # Uma pessoa comprou quatro artigos em uma loja. Para cada artigo, tem-se o nome, preço e percentual de desconto. Faça um algoritmo que imprima nome, preço e preço com desconto de cada artigo. Imprima também o total a pagar.
 
 nome1 = input("Digite o nome do primeiro artigo: ")
