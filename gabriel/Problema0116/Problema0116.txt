@@ -1,0 +1,21 @@
+Código
+0116
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um programa que leia um número inteiro de 4 casas e imprima se o algarismo que está nas casas das unidades de milhar é ou não múltiplo de quatro.
+Entradas
+0303
+1000
+4500
+6300
+8100
+Saídas
+Sim
+Não
+Sim
+Não
+Sim
+
