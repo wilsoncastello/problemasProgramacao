@@ -1,0 +1,14 @@
+Código	
+0141
+Tópico	
+Seleção
+Dificuldade
+Muito fácil
+Descrição	
+Crie um programa que efetue a leitura de três valores inteiros desconhecidos representados pelas variáveis A, B e C, some os valores fornecidos e apresente o resultado somente se for maior ou igual a 100.
+Entradas
+50 50 0
+50 48 1
+Saídas
+100
+"O resultado não pode ser apresentado"
