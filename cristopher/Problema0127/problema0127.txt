@@ -1,0 +1,17 @@
+Código
+0127
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Crie um algoritmo que leia o nome e o total de pontos de três finalistas de um campeonato de pingue-pongue e exiba a colocação da seguinte forma:
+Vencedor:______________________ XXXX ptos
+Segundo colocado: ______________ XXXX ptos
+Terceiro colocado: _______________ XXXX ptos
+Entradas
+Cafu    100    Zico    250    Pelé    450
+Neymar  550    Messi   999    Mbappe  100
+Saídas
+Pelé    450    Zico    200    Cafu    150
+Messi   999    Neymar  550    Mbappe  100

@@ -1,0 +1,34 @@
+Código
+0150
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: O valor adicional, de acordo com a tabela a seguir: O valor do imposto, de acordo com a regra a seguir. O preço de custo, ou seja, preço mais imposto. O desconto, de acordo com a regra a seguir. O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário, 0 (zero). Os requisitos são: Tipo: A Refrigeração: S O novo preço, ou seja, preço de custo mais adicional menos desconto. A classificação, de acordo com a regra a seguir.
+
+Preço   Categoria   Percentual de aumento
+<=25    L           5%
+        A           8%
+        V           10%
+>25     L           12%
+        A           15%
+        V           18%
+
+Novo preço classificação
+<= R$ 50,00 Barato
+Entre R$ 50,00 e R$ 120,00 Normal
+>= R$ 120,00 Caro
+
+Entradas
+10 - V - S
+10 - A - N
+49 - V - S
+150 - L - N
+
+
+Saídas
+11 - Barato
+10.8 - Barato
+57.82 - Normal 
+152.09 - Caro

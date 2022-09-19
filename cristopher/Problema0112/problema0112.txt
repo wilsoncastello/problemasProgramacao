@@ -1,0 +1,18 @@
+Código
+0112
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia um número e imprima a raiz quadrada do número caso ele seja positivo e o quadrado do número caso ele seja negativo. 
+Entradas
+100
+25
+-3
+-4
+Saídas
+10
+5
+9
+16
