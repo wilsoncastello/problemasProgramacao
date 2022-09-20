@@ -1,0 +1,14 @@
+Código	
+0081
+Tópico	
+Seleção
+Dificuldade	
+Fácil
+Descrição	
+Crie um algoritmo que, para um número inteiro positivo N, determine se esse número é par ou não. Um número inteiro positivo é par se o mesmo for divísivel exatamente por 2.
+Entradas
+1
+2	
+Saídas
+"Não é par"
+"É par"
