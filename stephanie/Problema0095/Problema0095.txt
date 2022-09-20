@@ -1,0 +1,35 @@
+Código
+0095
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Escreva um algoritmo que leia um valor inteiro não negativo menor que 10 e escreva na tela esse valor por extenso. Caso seja informado um valor menor que zero 
+ou maior que 9, deve ser impressa uma mensagem dizendo que a entrada foi inválida.
+Entradas
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Saídas
+Entrada inválida
+zero
+um
+dois
+três
+quatro
+cinco
+seis
+sete
+oito
+nove
+Entrada inválida

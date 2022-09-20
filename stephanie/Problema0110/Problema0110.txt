@@ -1,0 +1,24 @@
+Código
+0110
+Tópico
+Seleção
+Dificuldade
+Difícil
+Descrição
+Escreva um algoritmo que leia um peso na Terra e o nome de um planeta e imprima o valor do seu peso neste planeta.
+Entradas
+62  Mercúrio
+62  Vênus
+62  Marte
+62  Júpiter
+62  Saturno
+62  Urano
+62  Netuno
+Saídas
+22,94
+54,56
+23,56
+163,68
+71,3
+72,54
+73,16
