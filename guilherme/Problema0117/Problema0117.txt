@@ -1,0 +1,14 @@
+Código	
+0117
+Tópico	
+Seleção
+Dificuldade	
+Fácil
+Descrição	
+Implemente um algoritmo que indique se o número digitado está compreendido entre 20 e 90 ou não. 
+Entradas
+7
+70
+Saídas
+O número não está entre 20 e 90
+O número está entre 20 e 90

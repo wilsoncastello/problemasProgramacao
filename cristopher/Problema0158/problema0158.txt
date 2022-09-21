@@ -1,0 +1,27 @@
+Código
+0158
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba: ■o código do produto comprado; e ■ a quantidade comprada do produto. Calcule e mostre: ■ o preço unitário do produto comprado, seguindo a Tabela I; ■o preço total da nota; ■ o valor do desconto, seguindo a Tabela II e aplicado sobre o preço total da nota; e ■o preço final da nota depois do desconto.
+Código   Preço
+1 a 10   10,00
+11 a 20  15,00
+21 a 30  20,00
+31 a 40  30,00
+Preço Total da Nota            % de desconto
+Até R$ 250,00                  5%
+Entre R$ 250,00 e R$ 500,00    10%
+De R$ 500,00 pra cima          15%
+Entradas
+5   10
+21  20
+38  30
+15  2
+Saídas
+10    100    5    95
+20    400    40   360
+30    900    135  765
+15    30     1.5  28.5

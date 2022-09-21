@@ -1,0 +1,16 @@
+Código	
+0017
+Tópico	
+Expressões
+Dificuldade	
+Difícil
+Descrição	
+Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
+Entradas
+0.5
+500	 	
+800		
+Saídas
+50.45
+500
+770

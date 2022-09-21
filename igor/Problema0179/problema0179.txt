@@ -1,0 +1,12 @@
+Código	
+0179
+Tópico	
+Repetição
+Dificuldade	
+Muito fácil
+Descrição	
+Imprimir todos os números de 1 até 100.
+Entradas
+
+Saídas
+Numeros de 1 a 100

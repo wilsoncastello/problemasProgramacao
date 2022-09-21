@@ -1,0 +1,14 @@
+Código	
+0194
+Tópico	
+Repetição
+Dificuldade	
+Fácil
+Descrição	
+Criar um algoritmo que leia os limites inferior e superior de um intervalo e imprima todos os números pares no intervalo aberto e seu somatório. Suponha que os dados digitados são para um intervalo crescente.
+Entradas
+1   10
+46  55
+Saídas
+2   4   6   8   20
+48  50  52  54  204

@@ -1,0 +1,16 @@
+Código	
+0033
+Tópico	
+Expressões
+Dificuldade	
+Fácil	
+Descrição	
+Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m², deve-se usar 18 W de potência. Faça um programa que receba a largura e o comprimento de um cômodo retangular (em metros), calcule e mostre a sua área (em m²) e a potência de iluminação que deverá ser utilizada.Entradas
+Entradas
+1.5  1.5
+2	2	 	
+3  6
+Saídas
+2.25  40.5  
+4  73
+18  324
