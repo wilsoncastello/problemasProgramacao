@@ -1,0 +1,14 @@
+Código	
+0148
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que receba: o código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado seja sempre válida, isto é, um número inteiro entre 1 e 5; o peso da carga do caminhão em toneladas; o código da carga, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 10 e 40. Tabelas: Código de Estado/Imposto - 1/35%, 2/25%, 3/15%, 4/5%, 5/Isento; Código da Carga/Preço por Quilo - 10 a 20/100, 21 a 30/250, 31 a 40/340; Calcule e mostre: o peso da carga do caminhão convertido em quilos; o preço da carga do caminhão; o valor do imposto, sabendo que o imposto é cobrado sobre o preço da carga do caminhão e depende do estado de origem; o valor total transportado pelo caminhão, preço da carga mais imposto.
+Entradas
+3   7   13
+4   12  22
+Saídas
+7000    700000  105000  805000
+12000   3000000 150000  3150000

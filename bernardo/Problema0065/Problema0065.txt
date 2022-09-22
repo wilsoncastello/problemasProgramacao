@@ -1,0 +1,16 @@
+Código	
+0065
+Tópico	
+Expressões
+Dificuldade	
+Fácil
+Descrição	
+Uma sorveteria vende três tipos de picolés. Sabendo-se que o picolé tipo 1 é vendido por R$1,50, o do tipo 2 por R$2,00 e o do tipo 3 por R$0,75, faça um algoritmo que, para cada tipo de picolé, mostre a quantidade vendida e o total arrecadado.
+Entradas
+0  1  0
+0  0  1	 	
+1  2  3	
+Saídas
+1  2
+1  0.75
+6  7.75

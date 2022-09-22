@@ -1,0 +1,14 @@
+Código	
+0125
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Sabendo que somente os municípios que possuem mais de 200.000 eleitores aptos têm segundo turno nas eleições para prefeito caso o primeiro colocado não tenha mais do que 50% dos votos, fazer um algoritmo que leia o nome do município, a quantidade de eleitores aptos, a quantidade de eleitores que compareceram para votar no primeiro turno, o número de votos do candidato mais votado e informe se a cidade terá ou não segundo turno em sua eleição municipal.
+Entradas
+Lages 100000  80000  50000
+Florianópolis 450000  420000  210000
+Saídas
+"Terá segundo turno"
+"Não terá segundo turno"
