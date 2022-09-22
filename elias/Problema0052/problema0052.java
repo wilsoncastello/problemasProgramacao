@@ -13,7 +13,7 @@ public class problema0052{
         n2 = Float.valueOf(input.nextLine());
         elementoTroca = n2;
         n2 = n1;
-        n1 = n3;
+        n1 = elementoTroca;
         System.out.println("O novo valor do primeiro número é: "+n1);
         System.out.println("O novo valor do segundo número é: "+n2);
     }
