@@ -1,0 +1,21 @@
+Código
+0128
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+O banco XXX concederá um crédito especial aos seus clientes de acordo com o saldo médio no último ano. 
+Faça um algoritmo que leia o saldo médio de um cliente e calcule o valor do crédito de acordo com a tabela a seguir e
+imprima uma mensagem informando o saldo médio e o valor do crédito.
+          SALDO MÉDIO PERCENTUAL
+de O a 500              nenhum crédito
+de 501 a 1000           30% do valor do saldo médio
+de 1001 a 3000          40% do valor do saldo médio
+acima de 3001           50% do valor do saldo médio 
+Entradas
+2245
+5670
+Saídas
+898
+2835

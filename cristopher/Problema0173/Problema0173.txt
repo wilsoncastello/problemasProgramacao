@@ -1,0 +1,50 @@
+Código
+0173
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Foi feita uma pesquisa sobre a audiência de canal de TV em várias casas de uma cidade, em determinado dia. Para cada casa consultada foi fornecido o número do canal (4,5,7,12) e o número de pessoas que estavam assistindo àquele canal. Se a televisão estivesse desligada, nada era notado, ou seja, essa casa não entrava na pesquisa. Faça um programa que: *Leia um número indeterminado de dados (número do canal e número de pessoas que estavam assistindo). e *Calcule e mostre a porcentagem de audiência de cada canal. Para encerrar a entrada de dados, digite o número do canal ZERO.
+Entradas
+Tabela 1:
+Número do canal     Qtd Pessoas assistindo
+       1                      --
+       4                      0
+       5                      9
+       7                      84
+       12                     9
+       4                      10
+       5                      1
+       7                      1
+       12                     1
+       4                      10
+       0                      --  
+Tabela 2:
+Número do canal     Qtd Pessoas assistindo
+       4                      25
+       5                      25
+       7                      25
+       12                     25
+       0                      --
+Saídas
+Tabela 1:
+"Número do canal inválido."
+20
+16
+10
+8
+85
+68
+10
+8
+Tabela 2:
+25
+25
+25
+25
+25
+25
+25
+25
+

@@ -1,0 +1,36 @@
+Código
+0156
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba o preço de um produto e seu código de origem e mostre sua procedência. A procedência
+obedece à tabela a seguir.
+Código de origem        Procedência
+    1                       Sul
+    2                      Norte
+    3                      Leste
+    4                      Oeste
+    5 ou 6                 Nordeste
+    7 ou 8 ou 9            Sudeste
+    10 a 20                Centro-Oeste
+    21 a 30                Nordeste
+Entradas
+1
+2
+3
+4
+5
+8
+10
+21
+Saídas
+Sul
+Norte
+Leste
+Oeste
+Nordeste
+Sudeste
+Centro-Oeste
+Nordeste
