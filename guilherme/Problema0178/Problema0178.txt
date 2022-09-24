@@ -3,7 +3,7 @@ Código
 Tópico	
 Repetição
 Dificuldade	
-Médio
+Muito Fácil
 Descrição	
 Criar um algoritmo que entre com cinco números e imprimir o quadrado de cada número. 
 Entradas
