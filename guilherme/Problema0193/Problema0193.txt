@@ -1,0 +1,14 @@
+Código	
+0193
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Criar um algoritmo que leia os limites inferior e superior de um intervalo e o número cujos múltiplos se deseja que sejam impressos no intervalo aberto. Suponha que os dados digitados são para um intervalo crescente.
+Entradas
+1   10  3   
+20  45  5
+Saídas
+3   6   9
+20  25  30  35  40  45
