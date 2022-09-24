@@ -1,0 +1,12 @@
+Código	
+0178
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Criar um algoritmo que entre com cinco números e imprimir o quadrado de cada número. 
+Entradas
+4   8   
+Saídas
+16  64
