@@ -1,0 +1,16 @@
+Código
+0054
+Tópico
+Expressões
+Dificuldade
+Médio
+Descrição
+Todo restaurante, normalmente cobra 10% para o garçom. Faça um algoritmo que leia o valor gasto com despezas realizadas em um restaurante e imprima o valor total com a gorjeta.
+Entradas
+55
+94
+28
+Saídas
+60.5
+103.4
+30.8

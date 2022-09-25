@@ -1,0 +1,12 @@
+Código	
+0163
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que mostre as tabuadas dos números de 1 a 10.
+Entradas
+
+Saídas
+As Tabuadas do 1 ao 10

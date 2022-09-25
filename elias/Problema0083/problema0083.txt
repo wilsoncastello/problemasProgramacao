@@ -1,0 +1,14 @@
+Código
+0083
+Tópico
+Seleção
+Dificuldade
+Muito fácil
+Descrição
+Sejam A e B números inteiros, diferentes um do outro. Faça um programa que leia esses números e determine qual o maior valor.
+Entradas
+2  -11
+-4  -8
+Saídas
+   2
+  -4
