@@ -1,0 +1,16 @@
+Código	
+0202
+Tópico	
+Repetição
+Dificuldade	
+Fácil
+Descrição	
+Entre com 15 números e imprima a quantidade de numeros que são maiores que 30.
+Entradas
+1  2  3  4  5  6  7  8  9  10  11  12  13  14  15
+31  32  33  34  35  36  37  38  39  40  41  42  43  44  45  
+-31  -30.1  -30  -29  0  29  30  30.1  31  32  33  34  35  36  37   
+Saídas
+0
+15
+8
