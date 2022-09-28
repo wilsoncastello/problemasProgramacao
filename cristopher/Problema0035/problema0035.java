@@ -1,3 +1,5 @@
+package problemasProgramacao.cristopher.Problema0035;
+
 import java.util.Scanner;
 
 public class problema0035{

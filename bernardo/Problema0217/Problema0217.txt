@@ -1,0 +1,14 @@
+Código	
+0217
+Tópico	
+Repetição
+Dificuldade	
+Fácil
+Descrição	
+Num frigorífico existem vários bois. Cada boi traz preso no seu pescoço um cartão contendo um número de identificação e seu peso. Implemente um algoritmo que leia os dados de vários bois e escreva o número e o peso do boi mais gordo e do boi mais magro. O algoritmo acaba quando se digita um número menor ou igual a zero para identificação. 
+Entradas
+1  50.5  2  50.6  0
+1  50  -1
+Saídas
+2  50.6  1  50.5
+1  50  1  50
