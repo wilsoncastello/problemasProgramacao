@@ -1,0 +1,16 @@
+Código	
+0208
+Tópico	
+Repetição
+Dificuldade	
+Difícil
+Descrição	
+Implementar um algoritmo para calcular o sen(X). O valor de X deverá ser digitado em graus. O valor do seno de X será calculado pela soma dos 10 primeiros termos da série a seguir: sen x = x - x^3/3! + x^5/5! - x^7/7! + ...
+Entradas
+30
+16
+90
+Saídas
+0.49
+0.27
+0.99
