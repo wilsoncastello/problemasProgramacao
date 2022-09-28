@@ -1,0 +1,21 @@
+Código
+0215
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Crie um algoritmo que controle o saldo bancário de um cliente. O algoritmo deve ler o valor do saldo inicial e em seguida as operações realizadas na conta (código e valor da operação). As operações podem ser as seguintes: 
+Saque em dinheiro (código = 10) 
+Depósito (código = 33) 
+Pagamento de cheque (código = 4) 
+Ao ler as operações o algoritmo deve realizar as atualizações na conta, imprimindo uma mensagem ao usuário com o saldo atual.
+O algoritmo deverá continuar a leitura até que o código de operação seja zero. 
+Códigos diferentes dos definidos devem ser ignorados e uma mensagem de erro apresentada.
+Ao final do processamento o algoritmo deverá imprimir se o cliente está com saldo negativo.
+Entradas
+500	10	470	4	570	33	60	0
+700	10	560	33	55	4	7.5	10	120	33	100	0		
+Saída
+660
+182.5

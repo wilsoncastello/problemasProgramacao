@@ -1,0 +1,17 @@
+Código
+0098
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um algoritmo que, tendo como dados de entrada a altura (h) e o sexo de uma pessoa, 
+calcule seu peso ideal utilizando as seguintes fórmulas: 
+Homens:       Peso ideal = 72.7 * h - 58; 
+Mulheres:     Peso ideal = 62.1 * h - 44.7.
+Entradas
+1.75   M
+1.60   F 
+Saídas
+69.22
+54.66

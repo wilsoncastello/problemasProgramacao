@@ -1,0 +1,14 @@
+Código
+0113
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia um número e imprima uma das mensagens: é multiplo de 3 ou não é multiplo de 3. 
+Entradas
+134
+99
+Saídas
+O número 134.0 não é multiplo de 3.
+O número 99.0 é multiplo de 3.

@@ -1,0 +1,16 @@
+Código	
+0223
+Tópico	
+Repetição
+Dificuldade	
+Fácil
+Descrição	
+Construa um algoritmo que, para um grupo de cinqüenta valores inteiros, determine : a ) A soma dos valores positivos ; b ) A quantidade de valores negativos . 
+Entradas
+Os números de 1 a 50    (sendo negativos os de 21 a 30)
+Os números de 1 a 50    (sendo todos negativos)
+Os números de 1 a 50    (sendo todos positivos)
+Saídas
+1020    10  
+0   50
+1275    0
