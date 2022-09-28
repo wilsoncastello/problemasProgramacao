@@ -49,7 +49,7 @@ public class Problema0169 {
         Rd = mediaD / contD;
 
         System.out.println("Peso médio das pessoas de 1 a 10 anos: "+Ra);
-        System.out.println("Peso médio das pessoas de 11 a 12 anos: "+Rb);
+        System.out.println("Peso médio das pessoas de 11 a 20 anos: "+Rb);
         System.out.println("Peso médio das pessoas de 21 a 30 anos: "+Rc);
         System.out.println("Peso médio das pessoas com mais de 30 anos: "+Rd);
 
