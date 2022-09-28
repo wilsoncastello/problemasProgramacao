@@ -1,0 +1,16 @@
+Código
+0155
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Uma empresa decide aplicar descontos nos seus preços usando a tabela a seguir. Faça um programa que receba o preço atual de um produto e seu código, calcule e mostre o valor do desconto e o novo preço.
+Entradas
+47.6
+500
+89
+Saída
+42.84
+375
+71.2

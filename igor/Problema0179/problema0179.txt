@@ -1,7 +1,7 @@
 Código	
 0179
 Tópico	
-Seleção
+Repetição
 Dificuldade	
 Muito fácil
 Descrição	

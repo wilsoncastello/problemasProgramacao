@@ -1,0 +1,16 @@
+Código
+0038
+Tópico
+Expressões
+Dificuldade
+Muito Fácil
+Descrição
+Faça um programa que leia um numero inteiro e imprimir seu sucessor e seu antecessor.
+Entradas
+100
+123
+2
+Saídas
+101 99
+124 122
+3 1
