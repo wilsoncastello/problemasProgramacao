@@ -23,7 +23,7 @@ public class problema233 {
 
         System.out.println("O resultado de "+numero+"x"+vezes+" é: " + resultado);
 
-        input.close();
+        
         
     }
     
