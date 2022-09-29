@@ -1,6 +1,5 @@
 package Problema0153;
 
-import java.rmi.server.SocketSecurityException;
 import java.util.Scanner;
 public class problema0153 {
     
