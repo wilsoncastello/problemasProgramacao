@@ -1,0 +1,16 @@
+Código	
+0157
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que receba a idade e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre em qual grupo de risco essa pessoa se encaixa. Idade < 20(Peso <= 60: Grupo 9, Peso > 60 e < 90: Grupo 8, Peso > 90: Grupo 7), Idade >= 20 e <= 50(Peso <= 60: Grupo 6, Peso > 60 e < 90: Grupo 5, Peso > 90: Grupo 4),  Idade >50 e <= 50(Peso <= 60: Grupo 3, Peso > 60 e < 90: Grupo 2, Peso > 90: Grupo 1).
+Entradas
+19  59
+20  60
+51  90
+Saídas
+9
+5
+1

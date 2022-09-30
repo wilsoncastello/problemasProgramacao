@@ -1,0 +1,30 @@
+Código
+0101
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Elabore um algoritmo que tome como entrada três valores e os imprima em ordem crescente.
+Entradas
+1	2	3
+1	3	2
+2	1	3
+2	3	1
+3	1	2
+3	2	1
+1	3	3
+3	3	1
+3	1	3
+-5	0.5	6.3
+Saídas
+1	2	3
+1	2	3
+1	2	3
+1	2	3
+1	2	3
+1	2	3
+1	3	3
+1	3	3
+1	3	3
+-5	0.5	6.3

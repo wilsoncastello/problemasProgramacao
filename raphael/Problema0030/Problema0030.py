@@ -10,5 +10,4 @@ multa1 = conta1 / 50;
 multa2 = conta2 / 50;
 restoSalario = salario - conta1 - conta2 - multa1 - multa2
 
-print("")
-print("Restará {} reais do salário de João.".format(restoSalario))
+print("\n Restará {} reais do salário de João.".format(restoSalario))

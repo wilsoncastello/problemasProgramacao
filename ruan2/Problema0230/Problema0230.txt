@@ -1,0 +1,14 @@
+Código
+0230
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Dados N pares de pontos do tipo A ( x1, y1 ) e B ( x2 , y2 ) , faça um algoritmo que : a ) Para cada par , calcule e mostre a distância entre os pontos ; b ) Calcule e mostre a soma das distâncias menores que 10.0 ; c ) Determine e mostre a quantidade de pares cuja distância está entre 10.0 e 18.0 ( inclusive extremos ) ; d ) Forneça o valor da maior distância . 
+Entradas
+2	5	15	10	30	8	5	10	10
+4	8	6	10	12	7	3	8	1	6	4	15	12	13	13	5	10
+Saída
+15.81	5.38	5.38	1	15.81
+6.32	2.23	12.04	8.54	17.10	1	12.04

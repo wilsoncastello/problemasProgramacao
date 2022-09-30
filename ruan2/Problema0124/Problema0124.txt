@@ -1,0 +1,30 @@
+Código
+0124
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Depois da liberação do governo para as mensalidades dos planos de saúde, as pessoas começaram a fazer pesquisas para descobrir um bom plano, não muito
+caro. Um vendedor de um plano de saúde apresentou a tabela a seguir. Crie um algoritmo que entre com o nome e a idade de uma pessoa e imprima o nome e o
+valor que ela deverá pagar.
+* ate l0 anos -R$ 30 00
+* acima de 10 até 29 anos - R$ 60,00
+* acima de 29 até 45 anos - R$ 120,00
+* acima de 45 até 59 anos - R$ 150,00
+* acima de 59 até 65 anos - R$ 250,00
+* maior que 65 anos - R$ 400,00
+Entradas
+9
+16
+34
+51
+62
+66
+Saída
+60
+120
+150
+250
+400
+
