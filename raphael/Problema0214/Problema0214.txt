@@ -1,0 +1,30 @@
+Código
+0214
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+"Uma empresa decidiu fazer um levantamento em relação aos candidatos que se apresentarem para preenchimento de vagas no seu quadro de funcionários. Supondo que você seja o programador dessa empresa, crie um algoritmo que leia para cada candidato a idade, o sexo (M ou F) e a experiência no serviço (S ou N). 
+Para encerrar a entrada de dados, digite zero para a idade. Calcule e escreva: 
+- o número de candidatos do sexo feminino; 
+- o número de candidatos do sexo masculino; 
+- a idade média dos homens que já têm experiência no serviço; 
+- a porcentagem dos homens com mais de 45 anos entre o total dos homens; 
+- o número de mulheres com idade inferior a 35 anos e com experiência no serviço; 
+- a menor idade entre as mulheres que já têm experiência no serviço."
+Entradas
+1- 21, F, S
+2- 33, M, N
+3- 65, M, S
+4- 48, F, S
+Saída
+São candidatos do sexo feminino: 2
+ 
+ São candidatos do sexo masculino: 2 
+ 
+ A porcentagem de homens com mais de 45 anos é: 50.0% 
+ 
+ Mulheres com idade inferior a 35 anos e com experiência de serviço: 1 
+ 
+ A mulher com menos idade, entre as que tem experiência tem: 21 anos
