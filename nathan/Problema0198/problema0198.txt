@@ -1,0 +1,15 @@
+Código
+0198
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+A série de RICCI difere da série de FIBONACCI porque os dois primeiros termos são fornecidos pelo usuário. Os demais termos são gerados da mesma forma que a série de FIBONACCI. 
+Crie um algoritmo que imprima os n primeiros termos da série de RICCI e a soma dos termos impressos, sabendo-se que para existir esta série serão necessários pelo menos três termos.
+Entradas
+3   5   
+1   3   
+Saídas
+3   5   8   13  21  34  55
+1   3   4   7   11  18  29

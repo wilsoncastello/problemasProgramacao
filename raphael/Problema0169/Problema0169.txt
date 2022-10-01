@@ -1,0 +1,30 @@
+Código
+0169
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba a idade e o peso de quinze pessoas, e que calcule e mostre as médias dos pesos das pessoas da mesma faixa etária. As faixas etárias são: de 1 a 10 anos, de 11 a 20 anos, de 21 a 30 anos e de 31 anos para cima.
+Entradas
+1 - 26, 85
+2 - 20, 55
+3 - 55, 60
+4 - 42, 49
+5 - 31, 64
+6 - 97, 52
+7 - 55, 99
+8 - 49, 64
+9 - 64, 64
+10- 13, 29
+11- 18, 48
+12- 52, 52
+13- 64, 95
+14- 74, 64
+15- 5,  15
+
+Saída
+Peso médio das pessoas de 1 a 10 anos: 15
+Peso médio das pessoas de 11 a 20 anos: 44
+Peso médio das pessoas de 21 a 30 anos: 85
+Peso médio das pessoas com mais de 30 anos: 66

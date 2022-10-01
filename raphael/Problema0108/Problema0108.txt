@@ -1,0 +1,14 @@
+Código
+0108
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Faça um programa que receba a idade de uma pessoa e mostre a mensagem de maioridade (igual ou superior a 18 anos) ou não.
+Entradas
+55
+15
+Saída
+A pessoa é maior de idade
+A pessoa não é maior de idade
