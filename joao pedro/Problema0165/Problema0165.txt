@@ -1,0 +1,30 @@
+Código
+0165
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba a idade, a altura e o peso de cinco pessas, calcule e mostre: * A quantiade de pessoas com idade superior a 50 anos; * A média das alturas das pessoas com idade entre 10 e 20 anos; * A porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analizadas.
+
+Entradas
+Digite a altura da pessoa 0: 1.50
+Digite o peso da pessoa 0: 50
+Digite a idade da pessoa 0: 18
+Digite a altura da pessoa 1: 1.50
+Digite o peso da pessoa 1: 50
+Digite a idade da pessoa 1: 18
+Digite a altura da pessoa 2: 2
+Digite o peso da pessoa 2: 30
+Digite a idade da pessoa 2: 60
+Digite a altura da pessoa 3: 2
+Digite o peso da pessoa 3: 30
+Digite a idade da pessoa 3: 60
+Digite a altura da pessoa 4: 2
+Digite o peso da pessoa 4: 30
+Digite a idade da pessoa 4: 60
+
+Saídas
+A quantiade de pessoas com idade superior a 50 anos: 3
+A media das alturas das pessoas com idade entre 10 e 20 anos: 1.5
+A porcentagem de pessoas com peso inferior a 40 kg entre todas as pessoas analizadas: 60
