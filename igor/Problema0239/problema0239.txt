@@ -1,0 +1,12 @@
+Código	
+0239
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Dada uma série de valores inteiros, expressos na base 8, construa um algoritmo que imprima cada um desses valores, juntamente com seu valor correspondente na base 10. 
+Entradas
+10  76  114
+Saídas
+8   62  76

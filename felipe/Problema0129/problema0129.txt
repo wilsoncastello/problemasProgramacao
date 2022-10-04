@@ -1,0 +1,22 @@
+Código	
+0129
+Tópico	
+Seleção
+Dificuldade	
+Fácil
+Descrição
+A biblioteca de uma universidade deseja fazer um algoritmo que leia o nome do livro que será emprestado, 
+o tipo de usuário (professor ou aluno) e possa imprimir um recibo conforme mostrado a seguir. Considerar que o professor tem dez
+dias para devolver o livro e o aluno só três dias.
+
+Nome do livro
+Tipo de usuário: 
+Total de Dias:
+Entradas
+Harry Potter    1
+O Hobbit    2 
+Senhor dos Anéis    1   
+Saídas
+Harry Potter    Professor   10 dias
+O Hobbit    aluno   3 dias 
+Senhor dos Anéis    Professor   10 dias
