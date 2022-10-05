@@ -1,0 +1,14 @@
+Código
+0170
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Cada espectador de um cinema respondeu a um questionário no qual constava sua idade e sua opinião em relação ao filme:ótimo - 3 ; bom - 2 ; regular - 1. Faça um programa que receba a idade e a opinião de quinze espectadores, calcule mostre: *A média das idades das pessoas que responderam ótimo; *A quantidade de pessoas que responderam regular; *A porcentagem de pessoas que responderam bom, entre todos os espectadores analisados.
+Entradas
+20	2	49	3	50	1	23	2	45	3	65	3	27	2	70	3	68	2	32	1	33	2	56	3	67	3	53	2	42	1	
+Saída
+Média: 58.6
+Quantidade Regular: 3
+Porcentagem Bom: 40

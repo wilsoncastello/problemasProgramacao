@@ -1,6 +1,5 @@
 valorGasto = float(input("Digite o valor gasto: "))
 
-valorGorjeta = valorGasto*0.1
-valorTotal = valorGasto + valorGorjeta
+valorTotal = valorGasto*0.1 + valorGasto
 
 print("O valor total: ",valorTotal)

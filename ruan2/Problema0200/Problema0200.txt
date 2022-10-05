@@ -1,0 +1,12 @@
+Código
+0200
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Entrar com nome, nota da PR1 e nota da PR2 de 15 alunos. Imprimir uma listagem, contendo: nome, nota da PR1, nota da PR2 e média arredondada de cada aluno. Ao final calcule a media geral da turma
+Entradas
+3   4	7   8	6   7	9   9	0   10	8   10
+Saída
+4	8	7	9	5	9
