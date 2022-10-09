@@ -1,0 +1,22 @@
+Código
+0143
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, 
+o valor do aumento e seu novo salário. Os cargos e o percentual de aumento de cada cargo estão na tabela a seguir. 
+1 - Programador Junior - 20%; 
+2 - Programador Pleno - 25%; 
+3 - Programador Senior - 27%; 
+4 - Analista de Sistemas - 30%; 
+5 - Outros - 22%.  
+Entradas	
+Cargo do Funcionário   Salário do Funcionário
+       2                       6452.5
+       4                       9874
+Saídas
+Aumento     Novo Salário
+1613.125       8065.625
+2962.2         12836.2
