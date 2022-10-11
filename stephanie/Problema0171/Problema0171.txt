@@ -1,0 +1,18 @@
+Código
+0171
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Uma empresa fez uma pesquisa de mercado para saber se as pessoas gostaram ou não de um novo produto lançado.
+Para isso, forneceu o sexo do entrevistado e sua resposta (S-sim; ou N-não). Sabe-se que foram entrevistadas 
+dez pessoas. Faça um programa que calcule e mostre: *O número de pessoas que responderam sim; *O número de 
+pessoas que responderam não; *O número de mulherem que responderam sim; e *A porcentagem de homens que 
+responderam não, entre todos os homens analisados.
+Entradas
+M-S   M-N   F-S   M-N   F-S   F-N   F-S   M-N   M-S   F-N
+F-S   M-S   M-S   M-S   F-S   F-S   F-N   M-N   M-N   F-S
+Saída
+5   5   3   60%
+7   3   4   40%
