@@ -1,0 +1,14 @@
+Código
+0154
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Uma agência bancária possui dois tipos de investimentos, conforme o quadro a seguir. Faça um programa que receba o tipo de investimento e seu valor, calcule e mostre o valor corrigido após um mês de investimento, de acordo com o tipo de investimento.
+Entradas
+1, 900
+2, 2400
+Saída
+927
+2496

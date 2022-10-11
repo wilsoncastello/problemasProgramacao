@@ -1,0 +1,29 @@
+Código
+0210
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Uma loja utiliza os seguintes códigos para as transações de cada dia: 
+"v" - para compras à vista 
+"p" - para compras a prazo 
+Dada uma lista de transações contendo o valor de cada compra e o respectivo código da transação, crie um algoritmo que leia estes dados, calcule e imprima: 
+valor total das compras à vista; 
+valor total das compras a prazo; 
+valor total das compras efetuadas; 
+valor a receber pelas compras a prazo, isto é, primeira parcela, sabendo-se que as compras serão pagas em três vezes. 
+Deverá haver trecho de proteção para entrada do código de tal maneira que o programa só aceite as letras V, P e X, maiúscula ou minúscula. A letra X indica que o programa deve ser encerrado.
+
+Entradas
+Digite a quantidade de compras: 3
+Digite tipo de compra para o produto  ('v' para compras a vista/ 'p' para compras a prazo/ 'x' para encerrar o programa): v
+Digite o valor da compra do produto: 2
+Digite tipo de compra para o produto  ('v' para compras a vista/ 'p' para compras a prazo/ 'x' para encerrar o programa): p
+Digite o valor da compra do produto: 4
+Digite tipo de compra para o produto  ('v' para compras a vista/ 'p' para compras a prazo/ 'x' para encerrar o programa): p
+Digite o valor da compra do produto: 6
+
+Saídas
+Total a vista: 2
+Total a prazo: 10

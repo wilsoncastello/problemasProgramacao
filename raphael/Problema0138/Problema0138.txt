@@ -1,0 +1,13 @@
+Código
+0138
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Elaborar um programa que leia um valor inteiro qualquer e apresente esse valor somente se for divisível por 2 ou somente se for divisível 3. Caso contrário, não faça nada. Esse valor pode ser apresentado caso seja divisível por 2 e 3.
+Entradas
+952
+7
+Saída
+952

@@ -1,0 +1,20 @@
+Código	
+0099
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição
+Faça um algoritmo que leia o valor do salário base de um funcionário, sua idade, tempo de serviço e quantidade de dependentes 
+e calcule o seu salário considerando que este é obtido pela soma do seu salário base (SB) com as seguintes gratificações: 
+Gratificação de idade (1% do SB a cada ano que for superior a 50 anos de idade); 
+Gratificação por tempo de serviço (2% do SB a cada ano de serviço); 
+Gratificação de família (4% do SB a cada dependente, limitado a um máximo de 5 dependentes).
+Entradas
+1000    51  1   4
+3500    24  2   0
+12530   60  15  4
+Saídas
+1030    40
+3640    NA
+17542   501.2
