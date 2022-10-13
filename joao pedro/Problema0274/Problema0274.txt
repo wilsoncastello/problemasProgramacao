@@ -1,0 +1,15 @@
+Código
+0274
+Tópico
+Repetição
+Dificuldade
+Fácil
+Descrição
+Faça um programa que preencha um vetor com dez números reais, calcule e mostre a quantidade de números negativos e a soma dos números positivos desse vetor
+
+Entradas
+-2 -4 -1 -3 -6 2 2 2 2 2
+
+Saídas
+Positivos: 10
+negativos: 5

@@ -1,0 +1,41 @@
+Código
+0159
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba o preço, a categoria (1 — limpeza; 2 — alimentação; ou 3 — vestuário) e a situação (R — produtos que necessitam de 
+refrigeração; e N — produtos que não necessitam de refrigeração). Calcule e mostre: 
+■ O valor do aumento, usando as regras que se seguem. 
+______________________________________
+|PREÇO|CATEGORIA|PERCENRUAL DE AUMENTO|
+|     |    1    |          5%         |
+|<=25 |    2    |          8%         |
+|     |    3    |          10%        |
+|_____|_________|_____________________|
+|     |    1    |          12%        |
+| >25 |    2    |          15%        |
+|     |    3    |          18%        |
+|_____|_________|_____________________|
+■ O valor do imposto, usando as regras a seguir. 
+O produto que preencher pelo menos um dos seguintes requisitos pagará imposto equivalente a 5% do preço; caso contrário, pagará 8%. 
+Os requisitos são: 
+Categoria: 2 
+Situação: R 
+■ O novo preço, ou seja, o preço mais aumento menos imposto. 
+■ A classificação, usando as regras a seguir.
+_______________________________________
+|      NOVO PREÇO        |CLASSIFICAÇÃO|
+|<= R$50,00              |    Barato   |
+|Entre R$50,00 e R$120,00|    Normal   |
+|>= R$120,00             |    Caro     |
+|________________________|_____________|
+Entradas
+Preço  Categoria  refrigeração
+  30       1           R
+  50       3           N  
+Saídas
+Novo Preço   classificação
+31.92           Barato
+54.28           Normal
