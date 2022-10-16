@@ -21,7 +21,7 @@ for (var i = 100; i < 150; i++) {
             
     }
 
-    for (var i = 0; i < vetorPrimos.length; i++) {
+    for (var i = 0; i < vetorPrimos.length; i++){
          console.log("["+i+"]: " + vetorPrimos[i]);
     }
     

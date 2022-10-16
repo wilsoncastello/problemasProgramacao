@@ -5,7 +5,7 @@ Repetição
 Dificuldade
 Fácil
 Descrição
-Sem utilizar a operação de multiplicação, escreva um algoritmo que multiplique dois números inteiros .
+Sem utilizar a operação de multiplicação, escreva um algoritmo que multiplique dois números inteiros.
 Entradas
 5   3
 62  7

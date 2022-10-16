@@ -20,6 +20,6 @@ Teste1  Teste2
 103     0
 Saídas
 Teste1      Teste2
-[1]: 51     "Não há nenhum numéro com essa condição."
+[1]: 51     "Não há nenhum numéro com essa condição. "
 [8]: 57
 [9]: 103

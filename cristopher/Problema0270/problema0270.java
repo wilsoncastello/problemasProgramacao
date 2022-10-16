@@ -8,7 +8,7 @@ public class problema0270 {
 
         Scanner input = new Scanner(System.in);
 
-        int[] vetorPrimos = new int[10];
+        int[]vetorPrimos = new int[10];
         int k = 0;
         
         for(int i = 100; i < 150; i++) {

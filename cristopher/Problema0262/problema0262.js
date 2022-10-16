@@ -10,7 +10,7 @@ for (var i = 0; i < 10; i++) {
 for (var i = 0; i < 10; i++) {
     if(vetor[i] > 50){
         contMaioresQue50++
-        console.log("["+i+"]: " + vetor[i] + " é maior do que 50.")
+        console.log("["+i+"]: " + vetor[i] + " é maior do que 50. ")
     }
 }
 
