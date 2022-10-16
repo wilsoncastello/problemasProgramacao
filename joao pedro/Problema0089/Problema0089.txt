@@ -1,0 +1,16 @@
+Código
+0089
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Um ângulo é agudo se for menor que 90 graus, reto se for igual a 90 graus e é dito obtuso se for maior que 90 graus. Escreva um algoritmo que leia o valor de um ângulo e imprima uma informação dizendo se o mesmo é agudo, reto ou obtuso.
+
+Entradas
+90 91 89
+120 90 3
+
+Saídas
+Reto Obtuso Agudo
+Obtuso Reto Agudo

@@ -1,0 +1,12 @@
+Código	
+0164
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Uma loja utiliza o código V para transação à vista e P para transação a prazo. Faça um programa que receba o código e o valor de quinze transações, calcule e mostre: * O valor total das compras à vista ; * O valor total das compras a prazo; * O valor total das compras efetuadas; e * O valor da primeira prestação das compras a prazo juntas, sabendo-se que serão pagas em três vezes.
+Entradas
+V   30  V   30  V   30  V   30  V   30  V   30  V   30  V   30  P   30  P   30  P   30  P   30  P   30  P   30  P   30
+Saídas
+240 210 450 70

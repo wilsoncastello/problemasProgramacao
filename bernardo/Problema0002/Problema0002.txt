@@ -1,0 +1,14 @@
+Código	
+0002
+Tópico	
+Expressões
+Dificuldade	
+Fácil	
+Descrição	
+Faça um programa que receba três notas, calcule e mostre a média aritmética.
+Entradas
+0	7.5	 10	
+5	5.5	 6	
+Saídas
+8.75
+5.83

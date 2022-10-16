@@ -1,0 +1,14 @@
+Código	
+0066
+Tópico	
+Expressões
+Dificuldade	
+Médio
+Descrição	
+Uma revendedora de carros paga a seus funcionários vendedores dois salários-mínimos fixos, mais uma comissão fixa de R$150,00 por carro vendido e mais 5% do valor das vendas. Faça um algoritmo que determine o salário total de um vendedor.
+Entradas
+1000  0  0
+1500.5  1  5000	 	
+Saídas
+2000
+3401

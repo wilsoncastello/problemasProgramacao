@@ -1,0 +1,17 @@
+Código
+0195
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Criar um algoritmo que leia a quantidade de números que se deseja digitar, o conjunto de números e imprima o maior e o menor número digitados. Não suponha que todos os números lidos serão positivos.
+
+Entradas
+-2  3
+-1  4
+-5  1000
+
+Saídas
+Maior numero:-1     Maior numero:1000
+Menor numero:-5     Menor numero:3

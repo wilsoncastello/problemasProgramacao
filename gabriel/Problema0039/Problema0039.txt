@@ -1,0 +1,12 @@
+Código
+0039
+Tópico
+Expressões
+Dificuldade
+Muito facil
+Descrição
+Faça um programa que leia e imprima o nome, endereço e telefone de uma pessoa.
+Entradas
+Ana	RuaMaria	499992323				
+Saídas
+Ana	RuaMaria	499992323

@@ -1,0 +1,14 @@
+Código	
+0024
+Tópico	
+Expressões
+Dificuldade	
+Muito Fácil	
+Descrição	
+Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+Entradas
+4	5	6
+7	3	1
+Saídas
+120
+21

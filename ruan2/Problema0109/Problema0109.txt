@@ -1,0 +1,18 @@
+Código
+0109
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Crie uma calculadora capaz de somar, subtrarir, multiplicar e dividir 2 números. O usuário deve informar a operação desejada e os valores a serem calculados
+Entradas
+1	30	45
+2	56	72
+3	3	70
+4	40	20
+Saída
+75
+-16
+210
+2

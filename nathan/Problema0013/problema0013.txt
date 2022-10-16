@@ -1,0 +1,17 @@
+Código	
+0013
+Tópico	
+Expressões
+Dificuldade	
+Médio	
+Descrição	
+O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre:
+a) o valor correspondente ao lucro do distribuidor; 
+b) o valor correspondente aos impostos; 
+c) o preço final do veículo.
+Entradas
+35000	17	12
+73000	19	21
+Saídas
+5950	4200	45150
+13870	15330	102200

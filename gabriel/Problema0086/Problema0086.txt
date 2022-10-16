@@ -1,0 +1,18 @@
+Código
+0086
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Elabore um algoritmo que tome como entrada o número do mês (1 a 12) e o respectivo valor do ano e determine o número de dias desse mês. Veja que um mês apresenta 30 ou 31 dias, exceto o mês de fevereiro que tem 28 dias. Entretanto, fevereiro tem 29 dias caso o ano seja bissexto. Um ano é bissexto se for múltiplo de 4.
+Entradas
+12	1990
+4	2001
+2	4000
+2	3999
+Saídas
+31
+30
+29
+28

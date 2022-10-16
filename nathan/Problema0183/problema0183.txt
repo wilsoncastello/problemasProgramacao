@@ -1,0 +1,12 @@
+Código	
+0183
+Tópico	
+Repetição
+Dificuldade	
+Muito fácil	
+Descrição	
+Criar um algoritmo que imprima os números de 120 a 300.
+Entradas
+--
+Saídas
+120 ->  300

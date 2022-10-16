@@ -1,0 +1,27 @@
+Código
+0131
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+"Crie um algoritmo que informe a quantidade total de calorias de uma refeição a partir da escolha do usuário 'que deverá informar o prato, a sobremesa e bebida
+(veja a tabela a seguir).
+PRATO                                 SOBREMESA                                     BEBIDA
+Vegetariano 180cal                  Abacaxi 75cal                                Chá 20cal
+Peixe 230cal                        Sorvete diet 11Ocal                          Suco de laranja 70cal
+Frango 250cal                       Mousse diet 17Ocal                           Suco de melão 1OOcal
+Carne 350cal                        Mousse chocolate 200cal                      Refrigerante diet 65cal"
+Entradas
+vegetariano	abacaxi	chá
+peixe	sorvete diet	suco de laranja
+frango	mousse diet	suco de melão
+carne	mousse chocolate	refrigerante diet
+VEGETARIANO	ABACAXI	CHÁ	
+Saídas
+275
+410
+520
+615
+275
+

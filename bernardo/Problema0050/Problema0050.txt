@@ -1,0 +1,14 @@
+Código	
+0050
+Tópico	
+Expressões
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que leia a altura e o raio de uma lata de óleo, calcule e apresente o valor do volume desta lata.3  2  5	 	
+Entradas
+20  5
+5  20
+Saídas
+1570
+6283

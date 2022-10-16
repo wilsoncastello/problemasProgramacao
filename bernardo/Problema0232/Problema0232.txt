@@ -1,0 +1,16 @@
+Código	
+0232
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Um determinado material radioativo perde metade de sua massa a cada cinqüenta segundos . Dada a massa inicial , em gramas , faça um algoritmo que determine o tempo necessário para que essa massa se torne menor que 0,05 gramas. 
+Entradas
+0.8
+0.4
+80
+Saídas
+50
+0
+550

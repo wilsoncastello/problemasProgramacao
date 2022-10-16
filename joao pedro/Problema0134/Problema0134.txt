@@ -1,0 +1,20 @@
+Código
+0134
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Crie um algoritmo que leia um ângulo em graus e apresente:
+* o seno do ângulo, se o ângulo pertencer a um quadrante par;
+* o co-seno do ângulo, se o ângulo pertencer a um quadrante ímpar. 
+
+Entradas
+120
+
+190
+
+Saídas
+0.8660254037844387
+
+-0.984807753012208

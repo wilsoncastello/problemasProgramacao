@@ -1,0 +1,14 @@
+Código
+0186
+Tópico
+Repetição
+Dificuldade
+Fácil
+Descrição
+Entrar com 8 números e, para cada número, imprimir o logaritmo desse número na base 10.
+Entradas
+5   10  22  45  8   31  17  100
+12  1000    60  50  41  98  32  20
+Saída
+0.69897     1   1.34242     1.65321     0.90308     1.49136     1.23044     2
+1.07918     3   1.77815     1.69897     1.61278     1.99122     1.50514     1.30102

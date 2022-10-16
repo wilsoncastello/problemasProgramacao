@@ -1,0 +1,12 @@
+Código
+0228
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Considere que, para cada aluno de uma universidade, tenha - se as seguintes informações: renda mensal da família, quanto gasta com alimentação, total de gastos com vestimenta e o quanto gasta com aluguel. Construa um algoritmo para fornecer : a ) A renda média familiar dos alunos que gastam acima de R$ 300,00 com alimentação ; b ) O gasto médio com aluguel ; c ) Para cada aluno, a proporção de gastos com alimentação ( P1 ) e a proporção de gastos com vestimenta ( P2 ) em relação à sua renda.
+Entradas
+1000    300 50  200 2000    400    150    300   3000    450 250 350    
+Saídas
+30  5   20  7.5 15  8.33    425 283.33

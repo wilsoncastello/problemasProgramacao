@@ -1,0 +1,17 @@
+Código
+0051
+Tópico
+Expressões
+Dificuldade
+Difícil
+Descrição
+Faça um programa que realize o cálculo da quantidade de litros de combustível gastos em uma viagem, sabendo-se que o carro faz 12 km com um litro. Deverão ser fornecidos o tempo gasto na viagem e a velocidade média. O programa deverá apresentar os valores da distância percorrida e a quantidade de litros utilizados na viagem.
+Obs: Digite o número de horas como se fossem números reais (exemplo: 1h30min -> 1.5)
+Entradas
+1.5     60
+2       60
+4.75    100    
+Saídas
+90      7.5
+120     10
+475     39.583332 
