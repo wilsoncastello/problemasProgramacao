@@ -6,7 +6,7 @@ Dificuldade
 Fácil
 Descrição
 Faça um programa que preencha um vetor com dez números inteiros, verifique e mostre os números superiores a cinquenta e suas respectivas posições. O programa deverá mostrar mensagem se não existir nenhum número nessa condição.
-Entradas
+Entradas 
 Teste1  Teste2
 50      1
 51      2

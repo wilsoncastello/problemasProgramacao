@@ -3,7 +3,7 @@ vetorB = []
 vetorC = []
 vetorD = []
 
-print("Preenchendo o vetor A ")
+print("Preenchendo o vetor A")
 for i in range(0,5):
     elemento = input(f"Digite o elemento {i}: ")
     vetorA.append(elemento)

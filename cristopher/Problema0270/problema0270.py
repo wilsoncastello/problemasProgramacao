@@ -13,5 +13,5 @@ for i in range(100,150):
         
     
 for i in range(0,10):
-    print(f"[{i}]: {vetorPrimos[i]} ")
+    print(f"[{i}]: {vetorPrimos[i]}")
 

@@ -8,4 +8,4 @@ while(i < vezes):
     resultado = resultado + numero
     i= i + 1
 
-print(f"O resultado de {numero}x{vezes} é: {resultado} ")
+print(f"O resultado de {numero}x{vezes} é: {resultado}")

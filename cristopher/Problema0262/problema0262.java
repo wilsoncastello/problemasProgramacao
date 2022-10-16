@@ -19,7 +19,7 @@ public class problema0262 {
         for (int i = 0; i < vetor.length; i++) {
             if(vetor[i] > 50){
                 contMaioresQue50++;
-                System.out.println("["+i+"]: " + vetor[i] + " é maior que 50. ");
+                System.out.println("["+i+"]: " + vetor[i] + " é maior que 50.");
             }
 
             

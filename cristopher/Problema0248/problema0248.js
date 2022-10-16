@@ -5,7 +5,7 @@ var vetorB = []
 var vetorC = []
 var vetorD = []
 
-console.log("Preenchendo o vetor A ")
+console.log("Preenchendo o vetor A")
 for(var i = 0; i < 5; i++) {
     vetorA[i] = parseFloat(prompt("Informe o elemento ["+i+"]: "))
 }

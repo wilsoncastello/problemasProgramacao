@@ -11,4 +11,4 @@ for (var i = 0; i < vezes; i++) {
             
 }
 
-console.log("O resultado de "+ numero +"x"+ vezes + " é: " + resultado);
+console.log("O resultado de "+ numero +"x"+ vezes + " é: " + resultado );

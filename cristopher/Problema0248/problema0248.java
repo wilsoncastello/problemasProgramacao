@@ -8,10 +8,10 @@ public class problema0248 {
 
         Scanner input = new Scanner(System.in);
 
-        float[]vetorA = new float[5];
-        float[]vetorB = new float[5];
-        float[]vetorC = new float[5];
-        float[]vetorD = new float[15];
+        float[] vetorA = new float[5];
+        float[] vetorB = new float[5];
+        float[] vetorC = new float[5];
+        float[] vetorD = new float[15];
 
         System.out.println("Preenchendo o vetor A: ");
         for (int i = 0; i < vetorA.length; i++) {

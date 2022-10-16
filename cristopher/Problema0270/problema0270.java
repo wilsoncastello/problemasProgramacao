@@ -30,7 +30,7 @@ public class problema0270 {
             
         }
 
-        for (int i = 0; i < vetorPrimos.length; i++) {
+        for (int i = 0; i < vetorPrimos.length; i++){
             System.out.println("["+i+"]: " + vetorPrimos[i]);
         }
 
