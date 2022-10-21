@@ -1,0 +1,12 @@
+Código	
+0281
+Tópico	
+Vetores
+Dificuldade	
+Fácil
+Descrição	
+Faça um programa que leia um vetor com dez posições para números inteiros. Depois da leitura, divida todos os seus elementos pelo maior valor do vetor. Mostre o vetor após os cálculos. 
+Entradas
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Saídas
+[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
