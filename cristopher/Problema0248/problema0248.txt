@@ -1,0 +1,33 @@
+Código
+0248
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Escrever um programa que leia três matrizes (A, B e C) de uma dimensão do tipo vetor com cinco elementos cada que sejam do tipo real.Construir uma matriz D, sendo esta o resultado da junção das três matrizes (A, B e C). Desta forma a matriz D deve ter o triplo de elementos das matrizes A, B e C, ou seja, 15 elementos. Apresentar os elementos da matriz D.
+Entradas 
+VetorA  VetorB  VetorC 
+1       1       6
+2       2       7
+3       3       8
+4       4       9
+5       5       10
+Saídas
+VetorD
+1       
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+

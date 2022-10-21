@@ -1,0 +1,21 @@
+Código
+0270
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+Faça um programa que gere os dez primeiros números primos acima de 100 e armazene-os em um vetor. Escreva no final o vetor resultante.
+Entradas
+--
+Saídas
+[0]: 101
+[1]: 103
+[2]: 107
+[3]: 109
+[4]: 113
+[5]: 127
+[6]: 131
+[7]: 137
+[8]: 139
+[9]: 149
