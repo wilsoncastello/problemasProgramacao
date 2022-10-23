@@ -1,0 +1,14 @@
+Código
+0260
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Faça um programa que receba a temperatura média de cada mês do ano, armazenando-as em um vetor. Calcule e mostre a maior e a menor temperatura do ano e em que mês ocorreram (mostrar o mês por extenso: 1 – janeiro, 2 – fevereiro...). Desconsidere empates.
+Entradas
+30.5	29.7	25	22	20	17	23	26	29	31	29	27
+23	22	15	10	7	3	-2	-4	0	8	14	24
+Saída	
+Outubro	31	Junho	17
+Dezembro	24	Agosto	-4				
