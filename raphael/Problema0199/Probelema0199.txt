@@ -1,0 +1,12 @@
+Código
+0199
+Tópico
+Repetição
+Dificuldade
+Fácil
+Descrição
+Entrar com 20 números e imprimir a soma dos números cujos quadrados são menores do que 225.
+Entradas
+99, 64, 2, 0, 9, 2, 1, 1, 2, 3, 6, 5, 4, 8, 6, 4, 3, 1, 9, 5
+Saída
+A soma dos numeros cujo quadrado é menor do que 225 é: 71

@@ -12,19 +12,19 @@ const prompt = require("prompt-sync")({ sigint: true });
     var n = prompt("Digite o número de um planeta: ");
 
     switch (n){
-        case 1: console.log("Peso em Mercúrio: "+peso*0.37);
+        case '1': console.log("Peso em Mercúrio: "+peso*0.37);
         break;
-        case 2: console.log("Peso em Vênus: "+peso*0.88);
+        case '2': console.log("Peso em Vênus: "+peso*0.88);
         break;
-        case 3: console.log("Peso em Marte: "+peso*0.38);
+        case '3': console.log("Peso em Marte: "+peso*0.38);
         break;
-        case 4: console.log("Peso em Júpiter: "+peso*2.64);
+        case '4': console.log("Peso em Júpiter: "+peso*2.64);
         break;
-        case 5: console.log("Peso em Saturno: "+peso*1.15);
+        case '5': console.log("Peso em Saturno: "+peso*1.15);
         break;
-        case 6: console.log("Peso em Urano: "+peso*1.17);
+        case '6': console.log("Peso em Urano: "+peso*1.17);
         break;
-        case 7: console.log("Peso em Netuno: "+peso*1.18);
+        case '7': console.log("Peso em Netuno: "+peso*1.18);
         break;
         default: console.log("Entrada Inválida!");
         break;

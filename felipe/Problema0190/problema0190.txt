@@ -1,0 +1,17 @@
+Código	
+0190
+Tópico	
+Repetição
+Dificuldade	
+Fácil
+Descrição
+Criar um algoritmo que leia um número que será o limite superior de um intervalo e o incremento (incr). 
+Imprimir todos os números naturais no intervalo de 0 até esse número. Suponha que os dois números lidos são maiores do que zero. Exemplo: Limite superior: 20; Incremento: 5; Saída: 0 5 10 15 20
+Entradas
+20  5
+80  3
+48  4
+Saídas
+0   5   10  15  20
+0   3   6   9   12  ...
+0   4   8   12  16  ...

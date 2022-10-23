@@ -1,0 +1,11 @@
+Código
+0258
+Tópico
+Repetição
+Dificuldade
+Difícil
+Descrição
+Faça um programa que efetue reserva de passagens aéreas de uma companhia. O programa deverá ler a quantidade voos oferecidos pela empresa e as informações sobre cada um deles: número, origem, destino e o número de lugares disponíves. Depois da leitura inicial, o programa deverá apresentar um menu com as seguintes opções: 1 - Consultar; 2 - Efetuar reserva; e 3 - Sair. Quando a opção escolhida for Consultar, deverá ser disponibilizado mais um menu com as seguintes opções: 1 - Pelo número do voo; 2 - Pela origem; e 3 - Por destino. Após selecionar o tipo de consulta e informar o valor a ser consultado, o programa deve apresentar todas as informações dos vôos que atendem ao critério estabelecido (Por exemplo, em consultas por número do vôo será retornado apenas um vôo, mas em consultas por origem ou destino é possível que mais de um vôo seja apresentado).Quando a opção escolhida for Efetuar reserva, deverá ser perguntado o número de voo em que a pessoa deseja viajar. O programa deverá dar as seguintes respostas: *reserva confirmadaーcaso exista o voo e lugar disponível, dando baixa nos lugares disponíveis; *voo lotadoーcaso não exista lugar disponível nesse voo; *voo inexistenteーcaso o código de voo não exista. A opção Sair é a única que permite encerrar a execução do programa. Sendo assim, após cada operação de consulta ou reserva, o programa volta ao menu principal.
+Entradas
+2   1234    Florianopolis   Rio 0   5678    Florianopolis   Lages   5
+Saídas
