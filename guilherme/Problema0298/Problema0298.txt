@@ -1,0 +1,20 @@
+Código	
+0298
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição	
+Crie um algoritmo que leia um vetor de 10 números inteiros e imprima o número de elementos da maior sublista ordenada crescentemente. 
+Exemplo de Entrada 1: 8 9 1 7 8 17 3 ... 
+Maior sublista: 1   7   8   17   logo o tamanho é 4. 
+Exemplo 2: 18 9 5 3  1 
+Maior sublista: não existe mais de um elemento, logo o tamanho é 1. 
+Entradas
+[1, 2, 3, 4, 5, 6, 7, 1, 2, 3]
+[5, 23, 32, 45, 50, 56, 72, 84, 91, 101]
+[100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
+Saídas
+7
+10
+1
