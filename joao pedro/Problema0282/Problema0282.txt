@@ -1,0 +1,20 @@
+Código
+0282
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Crie um algoritmo que armazene cinco nomes em um vetor e depois leia outro nome. 
+        Se o nome for encontrado no vetor, o programa deve imprimir a posição desse nome no vetor; 
+       caso contrário, deve imprimir a mensagem "Nome não encontrado".
+
+Entradas
+Joao,Ana,Pedro,Lucy,Takashi e Joao
+
+Joao,Ana,Pedro,Lucy,Takashi e Wilson
+
+Saidas
+"O mesmo nome pode ser encontrado na posicao 0"
+
+"Nome nao encontrado"

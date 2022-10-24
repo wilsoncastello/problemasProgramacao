@@ -1,0 +1,39 @@
+Código
+0289
+Tópico
+Vetores
+Dificuldade
+Difícil
+Descrição
+Crie um algoritmo que realize as reservas de passagens aéreas de uma companhia.O programa deve ler a quantidade de vôos,
+        o número de cada vôo e a quantidade de lugares disponíveis nele. Em seguida, ele deve ler vários pedidos de reserva,
+        constituído do número do vôo desejado. 
+        Para cada pedido, o programa deve verificar se há possibilidade no vôo desejado. 
+        O programa deve imprimir uma das duas mensagens: "Reserva efetuada" ou "Voo lotado". 
+        O programa deve ser encerrado quando o usuário digitar -1 como o número do vôo a ser reservado.
+        Neste momento, o programa deve imprimir uma relação com o número de cada vôo,
+        a quantidade de passageiros que fizeram reserva naquele vôo e a quantidade de lugares que ficaram vagos.
+
+Entradas
+Quantidade de voos: 3
+Num do voo 0: 3556
+Lugares: 3
+Realizar reserva: Sim
+Realizar reserva: Nao
+Realizar reserva: Sim
+
+Num do voo 1: 54874
+Lugares: 5
+Realizar rezerva: Sim
+Realizar rezerva: Nao
+Realizar rezerva: Nao
+Realizar rezerva: Nao
+Realizar rezerva: Nao
+
+Num do voo 2: 12
+Lugares: 0
+
+Saidas
+Numero do voo: 3556  . Passageiros: 2  . Lugares vagos: 1
+Numero do voo: 54874  . Passageiros: 1  . Lugares vagos: 4
+Numero do voo: 12  . Passageiros: 0  . Lugares vagos: 0
