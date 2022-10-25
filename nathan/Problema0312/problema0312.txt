@@ -1,0 +1,12 @@
+Código	
+0312
+Tópico	
+Vetores
+Dificuldade	
+Médio	
+Descrição	
+Elabore um algoritmo que leia um arranjo X com N elementos reais e calcule a diferença entre as posições do maior e do menor elemento existente. Caso exista mais de um elemento que seja o maior ou o menor, o algoritmo deve apresentar a maior distância possível entre eles.
+Entradas
+5   7   13  13  9   2
+Saídas
+3
