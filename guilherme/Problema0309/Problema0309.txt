@@ -1,0 +1,16 @@
+Código	
+0309
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição	
+Elabore um  programa que leia seis elementos (valores inteiros) para e armazene-os no vetor A e leia mais seis valores e armazene-os no vetor B. O programa deve gerar os vetores C e D de mesmo tipo. O vetor C deve ser formado pelos elementos de índice ímpar de A e B e o vetor D deve ser formado pelos elementos de índice par de A e B. O programa deve apresentar os elementos de C e D.
+Entradas
+[1, 2, 3, 4, 5, 6]  [7, 8, 9, 10, 11, 12]
+[1, 2, 3, 5, 7, 8]  [10, 11, 12, 13, 15, 16]
+[1, 1, 1, 1, 1, 1]  [1, 1, 1, 2, 1, 1]
+Saídas
+[1, 3, 5, 7, 9, 11] [2, 4, 6, 8, 10, 12]
+[1, 3, 5, 7, 11, 13, 15]    [2, 8, 10, 12, 16]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]   [2]

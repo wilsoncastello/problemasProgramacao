@@ -1,9 +1,0 @@
-Código
-0219
-Tópico
-Repetição
-Dificuldade
-Médio
-Descrição
-Crie um algoritmo que entre com numerador e denominador de duas frações e imprima a soma algébrica das frações.
-Entradas
