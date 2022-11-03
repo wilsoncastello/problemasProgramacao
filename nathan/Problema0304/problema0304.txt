@@ -1,0 +1,16 @@
+Código	
+0304
+Tópico	
+Vetores
+Dificuldade	
+Fácil	
+Descrição	
+A Fábrica de Queijo Rio Novense deseja elaborar um algoritmo para controlar o estoque e as vendas. Inicialmente, deverão ser lidos e armazenados em vetores: o código, o nome, a quantidade disponível em estoque e o preço de venda dos produtos. O término do cadastramento é determinado quando se digita -1 para o código do produto. Sabe-se que a Fábrica de Queijo Rio Novense trabalha com no máximo 50 produtos diferentes. 
+A segunda fase do algoritmo é a venda. Deverá ser lido o código do produto a ser vendido e a quantidade requerida. Se o código do produto estiver cadastrado, a venda poderá ser realizada; caso contrário, a mensagem Produto Não-Cadastrado deverá ser exibida no monitor. Caso o produto esteja disponível, a venda só poderá ser realizada se a quantidade disponível no estoque for suficiente para atender ao pedido. Nesse caso, você deverá abater do estoque a quantidade vendida. Se o estoque não for suficiente para atender ao pedido, a mensagem Estoque Insuficiente deverá ser exibida no monitor. O final das vendas será detectado quando o código do produto for igual a zero. 
+No final deverá aparecer uma listagem no vídeo contendo o total vendido no dia e a relação de todos os produtos do estoque, com suas respectivas quantidades, em ordem decrescente de quantidades disponíveis.  
+Entradas
+123 Pao 22  10  234 Queijo  30  15  -1  234 5   123 3   0
+Saídas
+105 
+234 Queijo  25  15
+123 Pao 19  10
