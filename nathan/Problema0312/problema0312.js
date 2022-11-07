@@ -4,7 +4,7 @@ var menorN = Number.MAX_VALUE, maiorN = Number.MIN_VALUE, posMaior = 0, posMenor
 var v = [n];
 
 for (i = 0; i < n; i++) {
-    v[i] = Number(prompt("Digite o vetor na posição " + i + ":"));
+    v[i] = Number(prompt("Digite o valor na posição " + i + ":"));
 }
 for (i = 0; i < n; i++) {
     if(menorN > v[i]){
