@@ -1,0 +1,12 @@
+Código	
+0326
+Tópico	
+String
+Dificuldade	
+Fácil	
+Descrição	
+Faça um programa que leia vários nomes e imprima o primeiro caractere de cada um deles. O programa deve ser terminado quando o usuário digitar FIM como nome.
+Entradas
+Nathan  Pedro   Maria   Joao    Amanda  FIM
+Saídas
+N   P   M   J   A
