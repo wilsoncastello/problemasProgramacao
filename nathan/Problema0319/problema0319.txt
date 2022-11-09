@@ -1,0 +1,12 @@
+Código	
+0319
+Tópico	
+Vetores
+Dificuldade	
+Medio	
+Descrição	
+Faça um programa que leia um conjunto de números inteiros e armazene-os em um vetor A. Em seguida, o programa deve gerar um vetor B que vai armazenar na posição N a soma de todos os elementos de A que estão armazenados entre as posições 1 e N. Por fim, o programa deve apresentar o vetor B.
+Entradas
+4   3   5   8   10
+Saídas
+[3  8   16  26]
