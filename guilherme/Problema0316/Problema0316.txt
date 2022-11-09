@@ -1,0 +1,12 @@
+Código	
+0316
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição	
+Elabore um programa que leia 5 elementos numéricos reais em um vetor B, construa um vetor B de mesmo tipo, observando  a seguinte lei de formação: "todo elemento de B deve ser o cubo do elemento correspondente de A". Após gerar o vetor B, o programa deve permitir que o usuário pesquise valores armazenados em B. Para encerrar as pesquisas, o usuário deve digitar 0 como o número a ser pesquisado.
+Entradas
+[1,2,3,4,5] 5   64  1   0
+Saídas
+5 não existe em B.    64 existe em B.   1 existe em B.  Até mais!
