@@ -7,3 +7,8 @@ Médio
 Descrição
 Crie um algoritmo que entre com numerador e denominador de duas frações e imprima a soma algébrica das frações.
 Entradas
+Numerador1: 8      Denominador1: 2      Numerador2: 12      Denominador2: 2
+Numerador1: 2      Denominador1: 3      Numerador2: 5       Denominador2: 8
+Saídas
+A soma das frações é: 20/2      O resultado final é: 10
+A soma das frações é: 31/24 
