@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class problema404 {
+public class problema0404 {
 
     static Scanner input = new Scanner(System.in);
 
