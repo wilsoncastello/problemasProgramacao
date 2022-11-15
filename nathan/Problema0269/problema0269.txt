@@ -1,0 +1,13 @@
+Código	
+0269
+Tópico	
+Seleção
+Dificuldade	
+Difícil	
+Descrição	
+Faça um programa que leia um vetor A de dez posições contendo números inteiros, determine e mostre, a seguir, quais elementos de A estão repetidos e quantas vezes cada um se repete. Caso um número apareça apenas uma vez em A ele não deve ser mencionado na saída do programa.
+Entradas
+1   2   2   3   4   5   6   7   7   8
+Saídas
+"2 se repete 2 vezes
+7 se repete 2 vezes"

@@ -1,0 +1,12 @@
+Código	
+0277
+Tópico	
+Vetores
+Dificuldade	
+Fácil	
+Descrição	
+Faça um programa que receba o nome de cinco produtos e seus respectivos preços. Calcule e mostre: * a quantidade de produtos com preço inferior a R$ 50,00; * o nome dos produtos com preço entre R$ 50,00 e R$ 100,00; * a média dos preços dos produtos com preço superior a R$ 100,00.
+Entradas
+Pao 10  Queijo  20  Vinho   60  Champagne   120  Costela 110
+Saídas
+"Nome dos produtos com preço entre 50 e 100 R$:"    Vinho   "Quantidade de produtos com preço abaixo de 50:"    2   "Media dos preços dos produtos com preço superior a 100:"   115
