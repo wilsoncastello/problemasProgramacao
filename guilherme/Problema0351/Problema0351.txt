@@ -1,0 +1,16 @@
+Código	
+0351
+Tópico	
+String
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que receba uma frase e um caractere e verifique se o caractere digitado é encontrado na frase ou não e, se for encontrado, quantas vezes isso acontece e em quais posições ele aparece. 
+Entradas
+"Uma frase de teste"    'e'
+"Uma frase de teste"    'f'
+"Uma frase de teste"    'x'
+Saídas
+"'e' é encontrado na frase 4 vezes."    "Pode se encontrado nas posições: 8; 11; 14; 17;"
+"'f' é encontrado na frase."    "Pode se encontrado na posição: 4;"
+"'x' não pode ser encontrado na frase."
