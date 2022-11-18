@@ -1,0 +1,12 @@
+Código	
+0368
+Tópico	
+String
+Dificuldade	
+Fácil
+Descrição	
+Elabore um programa que preencha uma matriz 4 x 4 com números inteiros, calcule e mostre quantos elementos dessa matriz são maiores que 30.
+Entradas
+[[1,2,4,8],[16,32,64,128],[256,512,1024,2048],[10,20,30,40]]
+Saídas
+8
