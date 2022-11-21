@@ -1,0 +1,29 @@
+Código	
+0347
+Tópico	
+String
+Dificuldade	
+Médio	
+Descrição	
+Faça um programa que receba um verbo regular terminado em AR e mostre sua conjugação no presente . 
+
+Exemplo : 
+Verbo : andar 
+Eu ando 
+Tu andas 
+Ele anda 
+Ela anda 
+Nós andamos 
+Vós andais
+Elas andam
+Entradas
+Jogar
+Saídas
+Verbo : andar 
+Eu jogo 
+Tu jogas 
+Ele joga 
+Ela joga 
+Nós jogamos 
+Vós jogais
+Elas jogam
