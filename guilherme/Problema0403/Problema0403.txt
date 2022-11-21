@@ -1,0 +1,14 @@
+Código	
+0403
+Tópico	
+Funções
+Dificuldade	
+Fácil
+Descrição	
+Crie um programa que leia os valores antigo e atual de um produto, chame uma função que determine o percentual de acréscimo entre esses valores. O resultado deverá ser mostrado no programa principal.
+Entradas
+5   8
+8   5
+Saídas
+160%
+62.5%
