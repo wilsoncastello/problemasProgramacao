@@ -1,0 +1,14 @@
+Código	
+0299
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição	
+Dado um vetor X de N elementos e um vetor Y de M elementos, faça um algoritmo que construa um vetor A de K elementos (K = N + M), onde:  A[1] = X[1]; A[2] = Y[1]; A[3] = X[2]; A[4]=Y[2] ...  Obs.: Caso M seja diferente de N, complete o vetor A com os elementos restantes do maior dos vetores de entrada. Imprima os três vetores. 
+Entradas
+2   3   0   1   3   4   5
+2   2   2   4   3   5
+Saídas
+(0,3,1,4,5)
+(2,3,4,5)

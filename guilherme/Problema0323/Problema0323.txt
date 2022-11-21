@@ -1,0 +1,12 @@
+Código	
+0323
+Tópico	
+String
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que leia uma mensagem e criptografe-a trocando as seguintes letras: A -X ; E - Y ; I - W ; O - K ; U - Z. O programa deve imprimir a mensagem original e a criptografada.
+Entradas
+Esta mensagem foi muito alterada!
+Saídas
+Ystx mynsxgym fkw mzwtk xltyrxdx!
