@@ -8,4 +8,3 @@ for i in range(3):
         if(linha[j] > maiorAltura):
             maiorAltura = linha[j]
     print("Maior altura da {}ª delegação: ".format(i),maiorAltura)
-
