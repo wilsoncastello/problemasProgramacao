@@ -1,0 +1,12 @@
+Código	
+0386
+Tópico	
+Matrizes
+Dificuldade	
+Fácil
+Descrição	
+Crie um algoritmo que leia as alturas de quatro atletas de três delegações que participarão dos jogos de verão e imprimir a maior altura de cada delegação.
+Entradas
+[[1.94,1.79,1.65,1.91],[1.82,1.76,1.98,1.73],[1.86,1.70,1.78,1.69]]
+Saídas
+1.94    1.98    1.86
