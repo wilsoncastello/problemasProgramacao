@@ -1,0 +1,14 @@
+Código	
+0444
+Tópico	
+Funçoes
+Dificuldade	
+Fácil	
+Descrição	
+Faça uma função que receba uma valor inteiro e verifique se ele é positivo ou negativo. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+10
+-1
+Saídas
+positivo
+negativo
