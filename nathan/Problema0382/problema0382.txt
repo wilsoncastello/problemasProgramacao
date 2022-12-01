@@ -1,0 +1,16 @@
+Código	
+0382
+Tópico	
+Matrizes
+Dificuldade	
+Médio	
+Descrição	
+Faça um programa que leia uma matriz 5 x 5 e imprima os numeros que estão abaixo da diagonal principal.
+Entradas
+[1  2   3   -3  1],
+[0  4   0   0   0],
+[0  1   0   1   1],
+[0  -6  6   1   3],
+[0  2   0   -1  1]
+Saídas
+0   0   1   0   -6   6   0   2   0   -1
