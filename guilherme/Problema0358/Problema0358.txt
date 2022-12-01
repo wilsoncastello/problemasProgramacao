@@ -1,0 +1,16 @@
+Código	
+0358
+Tópico	
+String
+Dificuldade	
+Difícil
+Descrição	
+Considere que X seja uma lista contendo os N nomes dos clientes de um banco A. Seja Y uma lista contendo os M nomes dos clientes de um banco B, escreva um algoritmo que leia as quantidades de clientes de cada banco e seus nomes e:  
+
+a) Coloque em ordem alfabética e apresente a lista X;  
+b) Coloque em ordem alfabética e apresente a lista Y; 
+c) Após resolvido os itens a e b, considere que os dois bancos foram unidos formando um novo banco. Crie uma lista Z composta pelos clientes desse novo banco. Essa lista deve ser criada já ordenada através da intercalação dos elementos de X e Y. Se uma mesma pessoa for cliente dos bancos A e B, ela deve ser incluída apenas uma vez na lista Z  
+Entradas
+3   ["João","Carlos","Greg"]  2   ["Tiago","João"]
+Saídas
+["Carlos","Greg","João","Tiago"]
