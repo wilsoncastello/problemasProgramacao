@@ -1,0 +1,18 @@
+Código
+0307
+Tópico
+Vetores
+Dificuldade
+Dificuldade
+Médio
+Descrição
+Escreva um programa que leia 10 elementos (valores reais) para temperaturas em graus celsius e armazene esses valores em um vetor A e crie um 
+vetor B de mesmo tipo, em que cada elemento deve ser a conversão da temperatura em graus fahrenheit do elemento correspondente do vetor A. 
+O programa deve apresentar os elementos dos vetores A e B, lado a lado. Ou seja, na primeira linha deve-se mostrar a primeira temperatura em 
+celsius e ao seu lado a primeira temperatura em fahrenheit. Na segunda linha deve-se mostrar a segundas temperaturas e asim por diante.
+Entradas
+temperatura em Graus Celsius: [5, 10, 15, -5, 8, 20, -11, 17, 9, 1]
+temperatura em Graus Celsius: [-20, -13, -50, 75, 4, 25, -32, 7, 10, 21]
+Saídas
+temperatura em Graus Fahrenheit: [41, 50, 59, 23, 46.4, 68, 12.20, 62.6, 48.2, 33.8]
+temperatura em Graus Fahrenheit: [-4, 8.6, -58, 167, 39.2, 77, -25.59, 44.6, 50, 69.8]

@@ -1,0 +1,18 @@
+Código	
+0333
+Tópico	
+String
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que receba duas frases e gere uma terceira que represente a combinação das palavras das duas frases recebidas.
+
+Exemplo: 
+Frase 1: hoje está um belo dia
+Frase 2: talvez chova amanhã
+Saída: Hoje talvez está chova um amanhã belo dia
+Entradas
+"hoje está um belo dia"   "talvez chova amanhã"
+"1 3 5"   "2 4"
+Saídas
+"Hoje talvez está chova um amanhã belo dia"
