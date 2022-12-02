@@ -1,0 +1,12 @@
+Código	
+0354
+Tópico	
+String
+Dificuldade	
+Médio	
+Descrição	
+Faça um programa que receba uma frase e converta todas as vogais de suas palavras para maiúsculo e todas as consoantes para minúsculo . 
+Entradas
+VAMOS AO MERCADO
+Saídas
+vAmOs AO mErcAdO

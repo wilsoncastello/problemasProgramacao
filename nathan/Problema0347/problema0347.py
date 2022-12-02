@@ -1,0 +1,10 @@
+verbo = input("Digite um verbo regular que termina com 'ar' para ver suas conjugações: ")
+x = len(verbo)-2
+print("Verbo:",verbo)
+print(f"Eu {verbo[:x]}o ")
+print(f"Tu {verbo[:x]}as ")
+print(f"Ele {verbo[:x]}a ")
+print(f"Ela {verbo[:x]}a ")
+print(f"Nós {verbo[:x]}amos ")
+print(f"Vós {verbo[:x]}ais ")
+print(f"Elas {verbo[:x]}am ")

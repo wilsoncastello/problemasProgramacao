@@ -1,0 +1,18 @@
+Código	
+0414
+Tópico	
+Funções
+Dificuldade	
+Fácil
+Descrição	
+Crie um algoritmo que produza a saída a seguir, usando uma função do tipo void: 
+*************** 
+Introdução à Programação
+*************** 
+Algoritmos
+Entradas
+Saídas
+*************** 
+Introdução à Programação
+*************** 
+Algoritmos

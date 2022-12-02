@@ -1,0 +1,12 @@
+Código	
+0424
+Tópico	
+Funçoes
+Dificuldade	
+Médio	
+Descrição	
+Crie uma função que calcule o numero de arranjos de n elementos p a p. Esta função deve chamar outra função que calcula o fatorial de um número inteiro. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+3   [4  3   5]
+Saídas
+[24    6   120]

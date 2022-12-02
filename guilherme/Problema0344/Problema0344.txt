@@ -1,0 +1,22 @@
+Código	
+0344
+Tópico	
+String
+Dificuldade	
+Difícil
+Descrição	
+Faça um programa que receba o nome completo de uma pessoa e mostre os nomes intermediários entre o primeiro nome e o último sobrenome abreviados . 
+
+Exemplo :
+ 
+Nome : Maria Silva Costa 
+Saida : 
+
+Nome : João Carlos Gomes Marques 
+Saída : João C. G. Marques 
+Entradas
+"Maria Silva Costa"
+"João Carlos Gomes Marques"
+Saídas
+"Maria S. Costa"
+"João C. G. Marques"

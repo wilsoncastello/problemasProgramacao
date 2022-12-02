@@ -1,0 +1,19 @@
+Código	
+0428
+Tópico	
+Funções
+Dificuldade	
+Difícil
+Descrição	
+Elabore uma função que converta um numero da base 2 para base 10. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+0
+01
+10
+111
+1010
+Saídas
+0
+1
+7
+10
