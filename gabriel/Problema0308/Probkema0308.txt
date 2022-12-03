@@ -1,0 +1,14 @@
+Código
+0308
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Elabore um programa que leia 12 elementos inteiros e armazene-os em um vetor A e crie um vetor de mesmo tipo, observando a seguinte lei de formação: "todo elementoA que for ímpar deve ser multiplicado por 2; caso contrário, o elemento deve permanecer constante". O programa deve apresentar os elementos do vetor B.
+Entradas
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+[-1, -2, -3, -4, -5, -6, 0, 0, 0, 0, 0, 0]
+Saídas
+[2, 2, 6, 4, 10, 6, 14, 8, 18, 10, 22, 12]
+[-2, -2, -6, -4, -10, -6, 0, 0, 0, 0, 0, 0]
