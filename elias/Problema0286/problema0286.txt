@@ -1,0 +1,14 @@
+Código
+0286
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+Crie um algoritmo que leia dois conjuntos de números inteiros, tendo cada  um 10 elementos, e apresente os elementos comuns aos conjuntos. 
+Entradas
+Primeiro vetor: [3, 6, 12, 1, 8, 9, 23, 7, 67, 43]   Segundo vetor: [2, 12, 5, 89, 21, 23, 67, 10, 14, 18]
+Primeiro vetor: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]   Segundo vetor: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+Saídas
+Elementos comuns aos conjuntos: 12, 23, 67.
+Não há nenhum elemento comum aos conjuntos.
