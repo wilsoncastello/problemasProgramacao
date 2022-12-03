@@ -1,0 +1,14 @@
+Código	
+0253
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que preencha um vetor com oito números inteiros, calcule e mostre dois vetores resultantes. O primeiro vetor resultante deve conter os números positivos e o segundo, os números negativos. Cada vetor resultante vai ter, no máximo, oito posições, que poderão não ser completamente utilizadas.
+Entradas
+[1,2,3,-4,-5,-6,7,8]
+[-1,-2,-3,-4,-5,6,7,-8]
+Saídas
+[1,2,3,7,8]	[-4,-5,-6]
+[6,7]	[-1,-2,-3,-4,-5,-8]

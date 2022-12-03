@@ -1,0 +1,15 @@
+Código	
+0288
+Tópico	
+Vetores
+Dificuldade	
+Difícil
+Descrição	
+Crie um algoritmo para gerenciar um sistema de reservas de mesas em uma casa de espetáculo. 
+A casa possui 10 mesas de 5 lugares cada. O algoritmo deverá permitir que o usuário escolha código de uma mesa (1 a 10) e forneça a quantidade de lugares desejados. O algoritmo deverá informar se foi possível realizar a reserva e atualizar a reserva (a reserva pode ser feita se a quantidade de lugares desejados estiver disponível na mesa solicitada). Se não for possível, o algoritmo deverá emitir uma mensagem. O algoritmo deve terminar quando o usuário digitar o código 0 (zero) para uma mesa ou quando todos os 150 lugares estiverem ocupados. 
+Entradas
+1   3   1   8   2   1   0
+1   5   2   5   3   5   4   5   5   5   6   5   7   5   8   5   9   5   10  5
+Saídas
+Essa mesa não tem lugares disponíveis!  Até mais!
+Até mais!

@@ -1,0 +1,20 @@
+Código
+0337
+Tópico
+String
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba uma frase e troque a palavra ALUNO por ESTUDANTE e a palavra ESCOLA por UNIVERSIDADE . Exemplo : EU SOU ALUNO DA ESCOLA Saída : EU SOU ESTUDANTE DA UNIVERSIDADE
+Entradas
+aluno escola
+aluno
+escola
+eu vou para a escola, pois sou um aluno
+eu vou para a escola
+Saída
+estudante universidade
+estudante
+universidade
+eu vou para a universidade, pois sou um estudante
+eu vou para a universidade

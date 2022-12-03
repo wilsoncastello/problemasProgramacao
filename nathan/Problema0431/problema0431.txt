@@ -1,0 +1,12 @@
+Código	
+0431
+Tópico	
+Funçoes
+Dificuldade	
+Médio	
+Descrição	
+Crie uma função chamada "inverte" que receba um vetor de numeros inteiros como parâmetro e seu tamanho. A função deve inverter a ordem dos elementos do vetor de modo que o 1° vire o ultimo e o 2° vire o penúltimo e assim sucessivamente. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+5   [1   7   3   9   2]
+Saídas
+[2  9   3   7   1]

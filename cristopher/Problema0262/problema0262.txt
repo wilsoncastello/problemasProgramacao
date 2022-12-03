@@ -1,0 +1,25 @@
+Código
+0262
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Faça um programa que preencha um vetor com dez números inteiros, verifique e mostre os números superiores a cinquenta e suas respectivas posições. O programa deverá mostrar mensagem se não existir nenhum número nessa condição.
+Entradas 
+Teste1  Teste2
+50      1
+51      2
+4       3
+3       4
+33      5
+-56     6
+-2      7
+0       8
+57      9
+103     0
+Saídas
+Teste1      Teste2
+[1]: 51     "Não há nenhum numéro com essa condição. "
+[8]: 57
+[9]: 103

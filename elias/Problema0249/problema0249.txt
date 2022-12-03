@@ -1,0 +1,16 @@
+Código
+0249
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+Elaborar um programa que leia um vetor A com 10 elementos inteiros. Construir um vetor B do mesmo tipo, sendo cada elemento do vetor B o 
+somatório de 1 até o valor do elemento correspondente do vetor A. Por exemplo, se o valor do elemento do vetor A[1] for 5, o elemento 
+correspondente do vetor B[1] deve ser 15, pois o somatório do elemento da matriz A é 1+2+3+4+5. Apresentar os elementos do vetor B.
+Entradas 
+vetor A: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+vetor A: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+Saídas
+vetor B: [15, 21, 28, 36, 45, 55, 66, 78, 91, 105]
+vetor B: [55, 210, 465, 820, 1275, 1830, 2485, 3240, 4095, 5050]

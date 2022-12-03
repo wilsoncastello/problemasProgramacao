@@ -1,0 +1,21 @@
+Código
+0263
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+Faça um programa que preencha três vetores com cinco posições cada. O primeiro vetor receberá os nomes de cinco funcionários; o segundo e o 
+terceiro vetor receberão, respectivamente, o salário e o tempo de serviço de cada um. Mostre um primeiro relatório apenas com os nomes dos 
+funcionários que não terão aumento; mostre um segundo relatório apenas com os nomes e os novos salários dos funcionários que terão aumento. 
+Sabe-se que os funcionários que terão direito ao aumento são aqueles que possuem tempo de serviço superior a cinco anos ou salário inferior 
+a R$ 800,00. Sabe-se, ainda, que, se o funcionário satisfizer às duas condições anteriores, tempo de serviço e salário, o aumento será de 35%; 
+para o funcionário que satisfazer apenas à condição tempo de serviço, o aumento será de 25%; para aquele que satisfazer apenas à condição 
+salário, o aumento será de 15%.
+Entrada
+Nomes: [João, Maria, José, Ana, Luiz]                  Salários: [580, 1000, 950, 700, 5000]     Tempo: [2, 3, 8, 7, 4]
+Nomes: [Adriano, Renata, Giovana, André, Bruna]        Salários: [1230, 752, 3220, 490, 810]     Tempo: [3, 6, 10, 7, 9]
+Saídas
+Funcionários que não tem direito ao aumento:       Funcionários que tem direito ao aumento:       Novo Salário:
+            Maria, Luiz;                                      João, José, Ana;                    667, 1187.5, 945;
+            Adriano;                                    Renata, Giovana, André, Bruna;            115.2, 4025, 661.5, 1012.5;
