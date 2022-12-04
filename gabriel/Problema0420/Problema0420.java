@@ -1,5 +1,6 @@
 package Problema0420;
 
+import java.util.Scanner;
 public class Problema0420 {
     public static int tirarRaiz(int radicando, int indice){
         int raiz = -1, variavel = 1;

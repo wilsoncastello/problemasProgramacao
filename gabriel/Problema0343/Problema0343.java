@@ -1,5 +1,6 @@
 package Problema0343;
 
+import java.util.Scanner;
 public class Problema0343 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

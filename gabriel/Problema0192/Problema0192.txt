@@ -1,0 +1,18 @@
+Código
+0192
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Criar um algoritmo que leia os limites inferior e superior de um intervalo e imprima todos os números inteiros no intervalo fechado. Suponha que os dados digitados são para um intervalo crescente.                       Mousse chocolate 200cal                      Refrigerante diet 65cal"
+Entradas
+1   10
+10  1
+1   1
+-1  1
+Saídas
+1   2   3   4   5   6   7   8   9   10
+1   2   3   4   5   6   7   8   9   10
+1
+-1  0   1

@@ -1,5 +1,6 @@
 package Problema0437;
 
+import java.util.Scanner;
 public class Problema0437 {
     public static float calcularVenda(float produtoA, float produtoB){
         float precoFinal;

@@ -1,5 +1,6 @@
 package Problema0427;
 
+import java.util.Scanner;
 public class Problema0427 {
     public static int[] converte(int numDecimal){
         int resto;

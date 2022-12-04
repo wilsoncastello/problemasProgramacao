@@ -1,5 +1,6 @@
 package Problema0448;
 
+import java.util.Scanner;
 public class Problema0448 {
     public static int[] calcularInterseccao(int vetorA[], int vetorB[]){
        
