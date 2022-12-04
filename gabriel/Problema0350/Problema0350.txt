@@ -1,0 +1,20 @@
+Código
+0350
+Tópico
+Strings
+Dificuldade
+Difícil
+Descrição
+"Faça um programa que receba duas cadeias de caracteres e verifique se a primeira cadeia digitada é uma permutação da segunda cadeia, ou seja, se todos os caracteres da primeira cadeia estão presentes na segunda cadeia, mesmo que em posições diferentes . 
+Exemplo :
+"" abccde "" é uma permutação de "" cbadce "" , mas não é de "" abcdef "" nem de "" abcde "" "
+Entradas
+[a, b, c], [b, c, a]
+[jorge], [gejog]
+[paralelepipedo], [pedra]
+[sassv], [svsas]
+Saídas
+true
+false
+false
+true
