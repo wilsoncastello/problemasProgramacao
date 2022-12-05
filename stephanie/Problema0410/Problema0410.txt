@@ -1,0 +1,14 @@
+Código
+0410
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Faça uma função que receba um vetor A de cinco elementos inteiros como parâmetro e gere um vetor B contendo o fatorial de cada elemento de A.  Em seguida, crie um programa que leia os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+[1, 2, 3, 4, 5]
+[6, 7, 8, 9, 10]
+Saída
+[1, 2, 6, 24, 120]
+[720, 5040, 40320, 362880, 3628800]

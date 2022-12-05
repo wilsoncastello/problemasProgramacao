@@ -1,0 +1,20 @@
+Código
+0445
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Crie uma função que receba como parâmetro a altura e o sexo de uma pessoa e retorne seu peso ideal. Para homens, 
+o peso ideal é igual a 72.7 * alt - 58 e para mulheres o peso ideal é igual 62.1 * alt -44.7. Em seguida, crie 
+um programa que leia os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+1.75 masculino
+1.90 masculino
+1.61 feminino
+1.78 feminino
+Saída
+69
+80.13
+55.28
+65.83
