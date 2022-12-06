@@ -1,0 +1,14 @@
+Código	
+0090
+Tópico	
+Seleção
+Dificuldade	
+Fácil
+Descrição
+Uma empresa de vendas oferece para seus clientes um desconto que é função do valor da compra do cliente. Esse desconto é de 20% se o valor da compra for maior ou igual a R$5000,00 e 15% se for menor. Faça um algoritmo que leia o valor da compra e apresente o desconto obtido e o valor final da compra.
+Entradas
+4000
+5000 	
+Saídas
+1000  4000
+600  3400
