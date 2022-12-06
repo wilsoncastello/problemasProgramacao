@@ -1,0 +1,16 @@
+Código	
+0256
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição
+Faça um programa que, no momento de preencher um vetor com oito número inteiros, já os armazene de forma crescente. O vetor não pode ficar com posições em branco entre os valores já digitados, ou seja, a cada nova inserção, se necessário, os elementos devem ser reposicionados no vetor.
+Entradas
+[1  2  3  4  5  6  7  8]
+[9  8  7  6  5  4  3  2]
+[0  1  0  1  0  1  0  1]
+Saídas
+[1  2  3  4  5  6  7  8]
+[2  3  4  5  6  7  8  9]
+[0  0  0  0  1  1  1  1]

@@ -1,0 +1,16 @@
+Código	
+0211
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Um clube com capacidade máxima para 10 pessoas em seu salão de festas, organizou um baile em que foi permitida a entrada de sócios e não-sócios cobrando  os seguintes valores por cada ingresso: SÓCIO R$ 50,00 - NÃO-SÓCIO R$ 100,00. Crie um algoritmo que leia para cada ingresso vendido o seu tipo ("sócio" ou "não-sócio ") até que seja digitado "fim" para indicar que não foram vendidos mais ingressos ou até que a capacidade do clube seja atingida e imprima: - A quantidade de ingressos vendidos para sócios e a quantidade para não-sócios; - O percentual de ingressos para sócios em relação ao total geral de ingressos vendidos; - O valor em Reais recebido de sócios, de nâo-sócios e o total arrecadado no baile. 
+Entradas
+["socio"  "socio"]  "fim"
+["nao-socio"  "nao-socio"]  "fim"
+["nao-socio"  "socio"  "nao-socio"  "socio"   "nao-socio"  "socio"   "nao-socio"  "socio"   "nao-socio"  "socio"]
+Saídas
+2  0  100  100  0  100
+0  2  0  0  200  200
+5  5  50  250  500  750
