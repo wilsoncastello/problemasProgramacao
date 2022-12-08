@@ -1,0 +1,22 @@
+Código
+0174
+Tópico
+Repetição
+Dificuldade
+Médio
+Descrição
+Foi feita uma pesquisa entre os habitantes de uma região. Foram coletados os dados de idade, sexo(M/F) e salário. 
+Faça um programa que calcule e mostre: 
+*A média dos salários do grupo; 
+*A maior e a menor idade do grupo; 
+*A quantidade de mulheres com salário até R$ 2000,00; 
+*A idade e o sexo da pessoa que possui o menor salário. 
+Finalize a entrada de dados ao ser digitada uma idade negativa.
+Entradas
+   Idade            Gênero         Salário
+18, 27, 54          M  F  F        3500  1850  1500
+19, 45, 27, 70      F  M  M  F     2300  1500  3100  1200
+Saídas
+Média dos Salários   Maior e Menor Idade   Mulheres com salário até 2000   Idade e Gênero da pessoa que possui o menor salário
+      2283,33         54      18                        2                   54        F 
+      2025            70      19                        1                   70        F

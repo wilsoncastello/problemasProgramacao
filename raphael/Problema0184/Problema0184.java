@@ -14,7 +14,7 @@ public class Problema0184 {
             somador = somador + i;
         }
 
-        System.out.println("\nA soma de todos os numeros é: "+somador);
+        System.out.println("\n A soma de todos os numeros é: "+somador);
 
     }
 

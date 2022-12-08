@@ -1,0 +1,14 @@
+Código	
+0393
+Tópico	
+Matrizes
+Dificuldade	
+Difícil
+Descrição	
+Cinco alunos fizeram duas provas. Cada prova foi corrigida por dois professores que atribuiu uma nota de 0 a 10 às provas. Crie um algoritmo que leia os nomes dos cinco alunos e as quatro notas recebidas por ele e calcule a pontuação final dos candidatos seguindo diferentes critérios: a) A pontuação final é dada pela média das quatro notas; b) A pontuação final é dada pela média das duas maiores notas recebidas pelo aluno (não importa se as notas foram obtidas na mesma prova ou não). c) A pontuação final é dada pela média da maior nota obtida pelo aluno em cada uma das duas provas. Por fim, o programa deve imprimir o nome do candidato aprovado em cada um dos critérios e indicar quem deve ser selecionado. Se um candidato for o primeiro colocado segundo dois ou três critérios ele será o selecionado. Caso três pessoas diferentes tenham ficado em primeiro lugar, de acordo com os diferentes critérios, deve-se selecionar o candidato que obtiver a maior pontuação média entre as três pontuações calculadas anteriormente.
+Entradas
+"Miguel"    [7,7,7,7]   "Helena"    [7,8,6,5]   "Gael"  [9,4,5,3]   "Alice" [6,5,6,5]   "Theo"  [0,2,0,1]
+"Davi"  [10,7,9,7]   "Arthur"    [5,8,6,7]   "Thiago"    [5,4,9,3]   "Roberta"   [6,4,4,5]   "Geovana"   [1,2,3,1]
+Saídas
+"Miguel"    "Helena"    "Gael"  "Helena"
+"Davi"  "Davi"  "Davi"  "Davi"

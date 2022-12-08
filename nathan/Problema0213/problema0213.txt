@@ -1,0 +1,32 @@
+Código
+0213
+Tópico
+Repetição
+Dificuldade
+Difícil
+Descrição
+Elabore um algoritmo que receba: 
+- O valor do salário mínimo; 
+- O número de horas trabalhadas de vários funcionários (até digitar -1 para horas trabalhadas); 
+- O número de dependentes de cada funcionário; 
+- Quantidade de horas extras trabalhadas. 
+O algoritimo deve calcular e imprimir o salário a receber dos funcionários, tendo em vista as regras a seguir: 
+- O valor da hora trabalhada é igual a 1/10 do salário mínimo; 
+- O salário do mês é igual ao número de horas trabalhadas vezes o valor da hora trabalhada; 
+- Para cada dependente deve-se dar um auxílio de R$ 300,00; 
+- Para cada hora extra trabalhada acréscimo de 50% ao valor da hora trabalhada;                                                                                                                       - O salário bruto é igual ao salário do mês mais os valores dos dependentes e valores das horas extras; - O salário líquido é igual ao salário bruto menos o IRRF; 
+- O desconto do imposto de renda retido na fonte segue a tabela a seguir: 
+IRRF    Salário Bruto 
+Isento   Até R$ 1800
+10%      Acima de R$ 1800 até R$ 5000 
+20%      Superior a R$ 5000
+- O salário a receber do funcionário é igual ao salário líquido mais a gratificação. - A gratificação segue a tabela a seguir: 
+Salário Líquido      Gratificação 
+Até R$ 2500          R$ 300 reais 
+Superiores a R$ 2500 R$ 100 reais 
+Entradas
+1000    40  2   10  -1  
+1200    45  1   15  -1  
+Saídas
+4180
+5380

@@ -1,0 +1,31 @@
+Código
+0420
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+"Crie uma função que possa calcular a raiz de um número positivo em qualquer índice (Esta é uma função importante, pois a maioria das linguagens só oferece a função raiz quadrada.).   Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela. Exemplo de entradas e saídas: 
+digite radicando: -64 
+Radicando invalido.Digite radicando: 64 
+digite indice: 1 
+Indice invalido.Digite indice: 2 
+Raiz: 8.000 
+digite radicando: 1000 
+digite indice: 3 
+Raiz: 10.000 
+digite radicando: 243 
+digite indice: 5 
+Raiz: 3.000 "
+Entradas
+1000    3
+81  2
+32  5
+0   3
+1   5
+Saídas
+10
+9
+2
+0
+1

@@ -1,0 +1,16 @@
+Código	
+0327
+Tópico	
+Repetição
+Dificuldade	
+Fácil
+Descrição	
+Faça um programa que leia o número de funcionários de uma empresa e a profissão de cada um deles e imprimi quantos são dentistas (considere qualquer combinação de letras maiúsculas ou minúsculas.
+Entradas
+1  ["Dentista"]
+1  ["Presidente"]
+3  ["DENTISTA"  "Jornalista"  "dentista"]
+Saídas
+1
+0
+2

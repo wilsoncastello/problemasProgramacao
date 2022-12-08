@@ -1,0 +1,23 @@
+Código	
+0361
+Tópico	
+Matrizes
+Dificuldade	
+Difícil	
+Descrição	
+Criar um algoritmo que entre com valores inteiros para uma matriz m 3 x 3 e imprima a matriz final, conforme mostrado a seguir: 
+A matriz gira 270º.
+ _       _       _       _
+|  1 2 3  |     |  3 6 9  |     
+|  4 5 6  |     |  2 5 8  | 
+|_ 7 8 9 _|     |_ 1 4 7 _| 
+Entradas
+ _       _ 
+|  1 4 8  |    
+|  5 2 4  |
+|_ 7 1 6 _|
+Saídas
+ _       _ 
+|  8 4 6  | 
+|  4 2 1  |
+|_ 1 5 7 _|

@@ -1,0 +1,16 @@
+Código
+0322
+Tópico
+Strings
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia uma mensagem e imprima quantas letras A, E, I, O e U tem esta mensagem (considerar minúsculas e maiúsculas).
+Entradas
+aeiouAEIOU
+aAAaae
+aparelho
+Saídas
+a: 2 vezes, e: 2 vezes, i: 2 vezes, o: 2 vezes, u: 2 vezes
+a: 5 vezes, e: 1 vezes, i: 0 vezes, o: 0 vezes, u: 0 vezes
+a: 2 vezes, e: 1 vezes, i: 0 vezes, o: 1 vezes, u: 0 vezes

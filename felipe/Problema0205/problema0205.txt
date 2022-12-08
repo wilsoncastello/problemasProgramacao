@@ -1,0 +1,16 @@
+Código	
+0205
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição
+Ler o numero de termos da serie (n) e imprimir o valor de H sendo: H = 1 + 1/2 + 1/3 + 1/4 + ... + 1/N.
+Entradas
+20
+15
+48
+Saídas
+1   1.5 1.83    2.08    2.28    ...
+1   1.5 1.83    2.08    2.28    ...
+1   1.5 1.83    2.08    2.28    ...

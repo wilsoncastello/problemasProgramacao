@@ -1,0 +1,11 @@
+Código
+0294
+Tópico
+Vetores
+Dificuldade
+Difícil
+Descrição
+Faça um programa que preencha um vetor VET do tipo inteiro com 10 posições, onde podem existir vários elementos repetidos. 
+Gere o vetor VET1 que terá somente os elementos do vetor VET que não são repetidos. 
+Por fim, gere um vetor VET2 que será igual ao vetor VET ordenado de forma crescente.
+Entradas

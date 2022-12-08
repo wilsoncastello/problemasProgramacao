@@ -1,0 +1,14 @@
+Código	
+0404
+Tópico	
+Funções
+Dificuldade	
+Médio
+Descrição	
+Faça uma função que receba como parâmetro um inteiro N e mostre a sua tabuada. Em seguida, faça com que esta função seja chamada no programa principal para apresentar todas as tabuadas de 1 a 10.
+Entradas
+3   
+7
+Saídas
+3   6   9   12  15  18  21  24  27  30
+7   14  21  28  35  42  49  56  63  70

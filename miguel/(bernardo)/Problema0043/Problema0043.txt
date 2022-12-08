@@ -1,0 +1,14 @@
+Código	
+0043
+Tópico	
+Expressões
+Dificuldade	
+Médio
+Descrição
+Faça um programa que leia um número e imprimir o logaritmo desse numero na base 10.
+Entradas
+10
+100
+Saídas
+1
+2

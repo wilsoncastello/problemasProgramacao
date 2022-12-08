@@ -1,0 +1,16 @@
+Código
+0385
+Tópico
+Matrizes
+Dificuldade
+Fácil
+Descrição
+Entrar com valores para uma matriz M de orde 2, calcule e imprima seu determinante. 
+Entradas
+[[3, 5], [1, 1]]
+[[2, 3.5], [2, 3]]
+[[0, 5], [0, 2]]
+Saídas
+-2
+-1
+0

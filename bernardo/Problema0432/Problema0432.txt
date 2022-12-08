@@ -1,0 +1,14 @@
+Código	
+0432
+Tópico	
+Funções
+Dificuldade	
+Médio
+Descrição	
+Crie uma função que receba uma mensagem, seu tamanho e um caractere e retire todas as ocorrências desse caractere na mensagem colocando * em seu lugar. A função deve mostrar a mensagem alterada e retornar o total de caracteres retirados, que deve ser impresso no programa principal.
+Entradas
+teste  5  e
+nenhum  6  a
+Saídas
+t*st*  2
+nenhum  0

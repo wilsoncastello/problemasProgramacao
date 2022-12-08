@@ -1,0 +1,14 @@
+Código	
+0397
+Tópico	
+Funções
+Dificuldade	
+Difícil
+Descrição	
+Desenvolva um algoritmo que, para uma matriz A de ordem N, determine se esta é ou não linearmente dependente. Uma matriz é linearmente dependente se apresentar duas (ou mais) linhas onde uma é múltipla da outra. 
+Entradas
+3 [[1  1  1]  [1  1  1]  [1  1  1]]
+3 [[1  1  1]  [0  1  1]  [1  0  1]]
+Saídas
+"linearmente dependente"
+"linearmente independente"

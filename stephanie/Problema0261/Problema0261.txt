@@ -1,0 +1,12 @@
+Código
+0261
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+Faça um programa que preencha um vetor com os modelos de cinco carros (exemplos de modelos: Fusca, Gol, Vectra etc). Carregue outro vetor com o consumo desses carros, isto é, quantos quilômetros cada um deles faz com um litro de combustível. Calcule e mostre: *o modelo de carro mais econômico; e *quantos litros de combustível cada um dos carros cadastrados consome para percorrer uma distância de 1.000 km.
+Entradas
+[Fusca, Gol, Vectra, Versa, Fox]   [5, 2, 6, 3, 4]
+Saída
+Gol     Fusca:5000  Gol:2000    Vectra:6000     Versa:3000     Fox:4000

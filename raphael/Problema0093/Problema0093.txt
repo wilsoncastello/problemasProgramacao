@@ -1,0 +1,14 @@
+Código
+0093
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Considerando as faixas especificadas a seguir, escreva um algoritmo que, para um determinado valor inteiro, imprima qual a faixa que o mesmo pertence. Faixa A - Valores abaixo de 100; Faixa B - Valores de 100 a 150 (inclusive extremos); Faixa C - Valores de 151 a 300 (inclusive extremos); Faixa X - Quaisquer outros valores.
+Entradas
+952
+25
+Saída
+O valor pertence a Faixa X
+O valor pertence a Faixa A

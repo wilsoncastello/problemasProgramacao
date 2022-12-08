@@ -1,0 +1,16 @@
+Código	
+0205
+Tópico	
+Repetição
+Dificuldade	
+Fácil
+Descrição
+Escreva um algoritmo que leia um número inteiro não negativo e determine o seu fatorial. O fatorial de um número não negativo N ( N ! ) é definido conforme a seguir : N ! = 1 x 2 x 3 X ...... x ( N - 1 ) x N 
+Entradas
+5
+12
+7
+Saídas
+120
+479001600
+5040
