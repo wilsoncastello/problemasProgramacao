@@ -1,0 +1,19 @@
+Código	
+0175
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição
+Faça um programa que apresente o menu de opções a seguir: Menu de opções: 1.Média aritmética / 2.Média ponderada / 3.Sair. Digite a opção desejada. 
+*Na opção 1: Receber duas notas,calcular e mostrar a média aritmética. 
+*Na opção 2: Receber três notas e seus respectivos pesos, calcular e mostrar a média ponderada. 
+*Na opção 3: Sair do programa. Verifique a possibilidade de opção inválida. Nesse caso, o programa deverá mostrar uma mensagem.
+Entradas
+1   7   8
+2   8.5 6   9   2   2   4
+2   10  7   7   2   1   3
+Saídas
+7.5
+8.12
+8

@@ -1,0 +1,23 @@
+Código
+0405
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Elabore um programa contendo uma função que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a função deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
+
+
+Entradas
+1 2 3 P
+
+1 2 3 A 
+
+10 10 10 P
+
+Saidas
+1.7
+
+2
+
+10

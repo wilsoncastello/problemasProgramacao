@@ -1,0 +1,71 @@
+Código
+0380
+Tópico
+Matrizes
+Dificuldade
+Médio
+Descrição
+Crie um programa que: receba o preço de quatro produtos e armazene-os em um vetor; receba a quantidade estocada de cada um desses produtos, em cinco armazéns diferentes, utilizando uma matriz 4 x 5. O programa deverá calcular e mostrar:  a quantidade de produtos estocados em cada um dos armazéns; a quantidade de cada um dos produtos estocados, em todos os armazéns juntos;  o preço do produto que possui maior estoque em um único armazém;  o menor estoque armazenado.
+
+Entradas
+Digite o preco do produto do produto0: 
+1
+Digite o preco do produto do produto1: 
+2
+Digite o preco do produto do produto2: 
+3
+Digite o preco do produto do produto3: 
+4
+Digite a quantidade do produto 0 no armazem 0: 
+5
+Digite a quantidade do produto 0 no armazem 1: 
+6
+Digite a quantidade do produto 0 no armazem 2: 
+7
+Digite a quantidade do produto 0 no armazem 3: 
+8
+Digite a quantidade do produto 1 no armazem 0: 
+9
+Digite a quantidade do produto 1 no armazem 1: 
+10
+Digite a quantidade do produto 1 no armazem 2: 
+2
+Digite a quantidade do produto 1 no armazem 3: 
+3
+Digite a quantidade do produto 2 no armazem 0: 
+4
+Digite a quantidade do produto 2 no armazem 1: 
+5
+Digite a quantidade do produto 2 no armazem 2: 
+6
+Digite a quantidade do produto 2 no armazem 3: 
+7
+Digite a quantidade do produto 3 no armazem 0: 
+8
+Digite a quantidade do produto 3 no armazem 1: 
+9
+Digite a quantidade do produto 3 no armazem 2: 
+1
+Digite a quantidade do produto 3 no armazem 3: 
+2
+Digite a quantidade do produto 4 no armazem 0: 
+3
+Digite a quantidade do produto 4 no armazem 1: 
+4
+Digite a quantidade do produto 4 no armazem 2: 
+5
+Digite a quantidade do produto 4 no armazem 3: 
+6
+
+Saidas
+Quantidade no armazem 0: 26
+Quantidade no armazem 1: 24
+Quantidade no armazem 2: 22
+Quantidade no armazem 3: 20
+Quantidade no armazem 4: 18
+Quantidade do produto 0: 29
+Quantidade do produto 1: 34
+Quantidade do produto 2: 21
+Quantidade do produto 3: 26
+Preco do produto de maior estoque: 2
+Menor estoque armazenado: 1

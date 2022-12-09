@@ -1,0 +1,21 @@
+Código
+0394
+Tópico
+Matrizes
+Dificuldade
+Médio
+Descrição
+Uma empresa tem registrado numa tabela os consumos mensais de energia elétrica dos anos 2020 a 2022. Cada linha representa um ano e cada coluna um mês. Considerando esses dados, faça um algoritmo 
+que leia os dados do consumo e imprima: 
+a) o consumo médio em cada um dos meses nestes anos. 
+b) o mês/ano em que a empresa gastou mais energia. c) O consumo em cada um dos anos; 
+
+Entradas
+1,1,1,1,1,1,1,1,1,1,1,1   90,2,2,2,2,2,2,2,2,2,2,2
+
+Saidas
+Consumo medio em 2020 (ano 0): 1
+Consumo medio em 2022 (ano 1): 9.333333333333334
+Maior gasto de energia (Mes/Ano): 0/1
+Consumo em 2020 (ano 0): 12
+Consumo em 2022 (ano 1): 112
