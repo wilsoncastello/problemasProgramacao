@@ -1,5 +1,5 @@
 print("Tipos de carros: A, B e C.")
-distancia = +float (input("Digite a distância de um percurso em Km: "))
+distancia = float (input("Digite a distância de um percurso em Km: "))
 
 tipoCarro = str (input("Digite o tipo de carro: "))
 
