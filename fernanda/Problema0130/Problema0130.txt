@@ -1,0 +1,15 @@
+Código
+0130
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+Faça um algoritmo que leia a distância de um percurso em quilômetros, o tipo do carro e informe o consumo estimado de combustível, sabendo-se que um carro tipo A faz 12 km com um litro de gasolina, um tipo B faz 9 km e o tipo C, 8 km por litro.
+Entradas
+
+
+
+Saídas
+
+
