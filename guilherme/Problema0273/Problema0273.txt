@@ -1,0 +1,12 @@
+Código	
+0273
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição	
+Uma escola deseja saber se existem alunos cursando, simultaneamente, as disciplinas Lógica e Linguagem de Programação. Coloque os números das matrículas dos alunos que cursam Lógica em um vetor, quinze alunos.Coloque os números das matrículas dos alunos que cursam Linguagem de Programação em outro vetor, dez alunos. Mostre o número das matrículas que aparecem nos dois vetores.
+Entradas
+[103,104,105,106,107,108,109,110,111,112,113,114,115,116,117]	[111,113,114,216,204,107,105,103,100,101]
+Saídas
+[103,105,107,111,113,114]

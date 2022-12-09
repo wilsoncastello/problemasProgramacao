@@ -1,0 +1,14 @@
+Código	
+0361
+Tópico	
+Matrizes
+Dificuldade	
+Fácil	
+Descrição	
+Faça um programa que preencha uma matriz M (2 X 2), calcule e mostre a matriz R, resultante da multiplicação dos elementos de M pelo seu maior elemento.
+Entradas
+[4   3]
+[5   1]
+Saídas
+[20   15]
+[25   5]

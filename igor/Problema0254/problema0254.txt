@@ -1,0 +1,12 @@
+Código	
+0254
+Tópico	
+Vetores
+Dificuldade	
+Difícil
+Descrição	
+Faça um programa que preencha dois vetores, X e Y, com dez números inteiros cada. Calcule e mostre os vetores resultantes: *A união de X com Y (todos os elementos de X e Y sem repetições). *A diferença entre X e Y (todos os elementos de X que não existam em Y, sem repetições). *A soma entre X e Y (soma de cada elemento de X com o elemento de mesma posição em Y). *O produto entre X e Y (multiplicação de cada elemento de X com o elemento de mesma posição em Y). *A intersecção entre X e Y (apenas os elementos que aparecem nos dois vetores, sem repetições).
+Entradas
+[0 1 2 3 4 5 6 7 8 9]   [4 0 1 5 5 3 3 3 0 1]
+Saídas
+[4 1 3 8 9 8 9 10 8 10]  [0 0 2 15 20 15 18 21 0 9]  [0 1 2 3 4 5 6 7 8 9]  [0 1 3 4 5]  [2 6 7 8 9]

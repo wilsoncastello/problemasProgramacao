@@ -1,0 +1,12 @@
+Código	
+0449
+Tópico	
+Funções
+Dificuldade	
+Fácil
+Descrição	
+Crie um programa que leia uma matriz 3X4 com números reais e utilize uma função para copiar todos os valores da matriz para um vetor de 12 posições. Esse vetor deverá ser mostrado em outra função.
+Entradas
+[[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Saídas
+[1,2,3,4,5,6,7,8,9,10,11,12]

@@ -1,0 +1,19 @@
+Código
+0340
+Tópico
+String
+Dificuldade
+Médio
+Descrição
+Faça um programa para criptografar uma frase dada pelo usuário. A criptografia deverá inverter a frase . 
+
+Exemplo : 
+Frase : EU ESTOU NA ESCOLA 
+Saída : ALOCSE AN UOTSE UE 
+
+Entradas
+O DIA ESTA BONITO
+OLA MUNDO
+Saída
+OTINOB ATSE AID O
+ODNUM ALO

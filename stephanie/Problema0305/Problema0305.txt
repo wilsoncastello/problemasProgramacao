@@ -1,0 +1,16 @@
+Código
+0305
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia um vetor de 10 números e imprima a localização do primeiro número negativo, se houver. O programa para este problema pode ser implementado fazendo-se com que o vetor seja percorrido até encontrar o primeiro valor negativo ou até chegar-se ao final do arranjo. Neste caso deve-se mostrar a mensagem: "Não existem valores negativos".
+Entradas
+[1, 3, 5, 9, 6, 8, 45, -2, 2]
+[3, 5, 9, 52, 84, 61, 78, 96, 2, 1]
+[-1, 2, 3, 4, -5, 6, -7, 8, 9, 10]
+Saída
+O número negativo está na posição: 8
+Não existem valores negativos
+O número negativo está na posição: 0

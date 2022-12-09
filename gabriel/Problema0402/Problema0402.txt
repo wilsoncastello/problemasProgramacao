@@ -1,0 +1,16 @@
+Código
+0402
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Faça um programa contendo uma função que receba três números inteiros a, b e c, sendo a maior que 1. A função deverá somar todos os inteiros entre b e c que sejam divisíveis por a (inclusive b e c) e retornar o resultado para ser impresso.
+Entradas
+[2, 10, 15]
+[3, 1, 20]
+[2, 10, 1]
+Saídas
+36
+63
+0

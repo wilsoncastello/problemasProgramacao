@@ -1,0 +1,17 @@
+Código
+0271
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+Faça um programa que preencha um vetor com N números inteiros, calcule e mostre: 
+*os números múltiplos de 2; 
+*os números múltiplos de 3; 
+*os números múltiplos de 2 e de 3. 
+Entradas
+Quantidade de números: 10    Números: [2, 3, 4, 5, 6, 7, 8, 9, 12, 15]
+Quantidade de números: 8     Números: [23, 26, 28, 37, 42, 45, 78, 89]
+Saídas
+Múltiplos de 2: 2, 4, 6, 8, 12;     Múltiplos de 3: 3, 6, 9, 12, 15;     Múltiplos de 2 e de 3: 6, 12;
+Múltiplos de 2: 26, 28, 42, 78;     Múltiplos de 3: 42, 45, 78;          Múltiplos de 2 e de 3: 42, 78;
