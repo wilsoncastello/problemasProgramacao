@@ -8,5 +8,6 @@ Descrição
 Crie uma função que receba um vetor de números inteiros positivos e retorne o número de maior concorrência. 
 A leitura dos dados deve ser feita em outra função e o usuário deve digitar -1 para indicar que o conjunto de dados terminou. Considere que o usuário digitará no máximo 20 valores.
 Entradas
-
+15  6   48  6   15  84  6   23  -1
 Saídas
+6
