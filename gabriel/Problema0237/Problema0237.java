@@ -1,24 +1,22 @@
 package Problema0237;
 
-public class Problema0237 {
+import java.util.Scanner;
+class Problema0237{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-                
-            System.out.println("Digite um numero inteiro");
-                int n = Integer.valueOf(input.nextLine());
-                int   soma=0;
-                int resto = 1;
-                
-                while (resto>0){ 
-
-                    resto = n % 10;
-                    n = (n - resto) / 10;
-             
-                    soma = soma + resto;
-}
-                
-                
-               System.out.println("Soma dos alagarismos do numero: " +soma);
-         
-}
+        int soma = 0, resto;
+        
+        System.out.println("Digite um numero inteiro positivo: ");
+        int numero = Integer.valueOf(input.nextLine());
+        
+        while(numero > 0){
+            resto = 0;
+            resto = numero % 10;
+            soma = soma + resto;
+            numero = numero / 10;
+            
+        }
+        
+        System.out.println("Soma dos algarismos: "+soma);
+   }
 }

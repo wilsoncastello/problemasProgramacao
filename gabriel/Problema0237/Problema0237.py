@@ -1,14 +1,14 @@
-#Dado um número inteiro , escreva um algoritmo que determine a soma dos dígitos que formam esse número . Sugestão : use as operações Div e Resto para extrair os dígitos . 
+soma = 0
+        
 
-n = int(input("Digite um numero inteiro: "))
-soma = int(0)
-resto = int(1)
-
-while (resto>0):
-
-    resto = n % 10
-    n = (n - resto) / 10
-
-    soma= soma + resto
-
-print("Soma dos alagarismos do numero: " + str(soma))
+numero = int(input("Digite um numero inteiro positivo: "));
+        
+while(numero > 0):
+    resto = 0
+    resto = numero % 10
+    soma = soma + resto
+    numero = numero // 10
+            
+    
+        
+print("Soma dos algarismos: "+str(soma))

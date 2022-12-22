@@ -25,4 +25,3 @@ for i in range(1, n+1):
     if(digitoVerificador == 10 or digitoVerificador == 11):
         digitoVerificador = 0
     print("Digito Verificador({0}): {1}\n".format(i, digitoVerificador))
-

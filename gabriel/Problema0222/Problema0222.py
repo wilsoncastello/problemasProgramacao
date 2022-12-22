@@ -1,16 +1,12 @@
-
-n = int(input("Digite um numero inteiro e positivo: "))
-primo = bool(True)
-
-for i in range(2, n):
-  if (n % i == 0):
-    primo = False
-
-if (n < 0):
-  primo = False
-
-if (primo == True):
-  print("O numero " + str(n) + " é primo")
-
-else:
-  print("O numero " + str(n) + " não é primo")
+numero = int(input("Digite um número inteiro positivo: "))
+primo = True
+        
+for i in range(2, numero):
+    if(numero % i == 0):
+        primo = False
+        print("o número "+str(numero)+ " não é primo");
+        break
+            
+        
+if(primo == True):
+    print("O numero "+str(numero)+ " é primo")

@@ -1,0 +1,16 @@
+Código
+04237
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Um estabelecimento fará uma promoção com descontos nos produtos A e B. Se forem comprados apenas o produto A ou apenas o produto B, o desconto será de 10%. Caso sejam comprados os produtos A e B, o desconto será de 15%. O custo de cada produto é, respectivamente, para os produtos A e B, $10 e $20. Elabore um programa que leia a quantidade comprada de cada produto e, por meio de uma função, calcule e apresente o valor da despesa do freguês na compra dos produtos. 
+Entradas
+[10, 0]
+[0, 10]
+[10, 10]
+Saídas
+90
+180
+255

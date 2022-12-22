@@ -1,0 +1,22 @@
+Código
+0332
+Tópico
+Strings
+Dificuldade
+Difícil
+Descrição
+Faça um programa que receba uma frase e mostre as letras que repetem junto com o número de repetições
+
+Exemplo: a prova foi adiada
+* A letra A apareceu 5 vezes
+* A letra O apareceu 2 vezes
+* A letra I apareceu 2 vezes 
+* A letra D apareceu 2 vezes 
+Entradas
+A prova foi adiada
+abaadba
+aparelho
+Saídas
+a: 5 vezes, o: 2 vezes, i: 2 vezes, d: 2 vezes
+a: 4 vezes, b: 2 vezes
+a: 2 vezes

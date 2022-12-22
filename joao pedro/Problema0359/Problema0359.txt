@@ -1,0 +1,21 @@
+Código
+0359
+Tópico
+String 
+Dificuldade
+Médio
+Descrição
+A turma de Introdução à Programação, por ter muitos alunos, será dividida em dias de provas em três grupos. 
+Faça um algoritmo que leia o nome de todos os alunos e imprima a lista de alunos que deverão fazer a prova em cada sala, 
+conforme a tabela  abaixo. Para indicar que a leitura de nomes terminou, o usuário deve digitar #:
+Alunos cujo primeiro nome iniciam com A - K: sala 120
+Alunos cujo primeiro nome iniciam com L - N: sala 121
+Alunos cujo primeiro nome iniciam com O - Z: sala 122 
+
+Entradas
+James , Chicoliro , Chad , Zi , Lucy , Lirochico , Ot , #
+
+Saidas
+Alunos da sala 120: Chad  Chicoliro  James  
+Alunos da sala 121: Lirochico  Lucy
+Alunos da sala 122: Ot  Zi

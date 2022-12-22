@@ -1,0 +1,16 @@
+Código
+0115
+Tópico
+Seleção
+Dificuldade
+Médio
+Descrição
+A prefeitura do Rio de Janeiro abriu uma linha de crédito para os funcionários estatutários. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Faça um algoritmo que leia o salário bruto e o valor da prestação e informe se o empréstimo pode ou não ser concedido.
+Entradas
+1500    500
+4070    890
+33500   9500.50
+Saídas
+O empréstimo não pode ser concedido.
+O empréstimo pode ser concedido.
+O empréstimo pode ser concedido.

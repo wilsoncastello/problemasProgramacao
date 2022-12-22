@@ -1,0 +1,12 @@
+Código
+0376
+Tópico
+Matrizes
+Dificuldade
+Fácil
+Descrição
+Faça um programa que preencha uma matriz 2 x 3, calcule e mostre a quantidade de elementos da matriz que não pertencem ao intervalo [5,15].
+Entradas
+[[1, 2, 3], [7, 9, 18]]
+Saídas
+4

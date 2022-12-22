@@ -1,0 +1,14 @@
+Código	
+0299
+Tópico	
+Vetores
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que receba uma frase e coloque as palavras da frase em ordem alfabética. Exemplo : Entrada : A informática está em constante evolução Saída : A constante em está evolução informática Entradas
+Entradas
+A   informática está    em  constante   evolução    .
+Eu  sou o   Igor    .
+Saídas
+A   constante   em  está    evolução    informática
+Eu  Igor    o   sou

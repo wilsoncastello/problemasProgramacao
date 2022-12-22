@@ -1,0 +1,14 @@
+Código	
+0096
+Tópico	
+Seleção
+Dificuldade	
+Fácil
+Descrição	
+Escreva um algoritmo que, para uma conta bancária, leia o seu número, o saldo, o tipo de operação a ser realizada (depósito ou retirada) e o valor da operação. Após, determine e mostre o novo saldo. Se o novo saldo ficar negativo, deve ser mostrada também uma mensagem "Conta Estourada".
+Entradas
+1  0  depóstito  1000
+2  1000  retirada  1001
+Saídas
+1000  "Conta regular"
+-1  "Conta estourada"

@@ -1,0 +1,16 @@
+Código	
+0151
+Tópico	
+Seleção
+Dificuldade
+Médio
+Descrição
+O preço ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos, ambos aplicados ao custo de fábrica. As porcentagens encontram-se na tabela a seguir. Faça um programa que receba o custo de fábrica de um carro e mostre o preço ao consumidor. (Abaixo de R$12000,00|||Distribuidor: 5%|||Impostos: Isento); (Acima de R$12000,00 e abaixo de R$25000,00|||Distribuidor: 10%|||Impostos: 15%); (Acima de R$25000,00|||Distribuidor: 15%|||Impostos: 20%).
+Entradas
+11000
+25000
+26000
+Saídas
+11550
+31250
+35100

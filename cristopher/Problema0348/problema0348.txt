@@ -1,0 +1,16 @@
+Código
+0348
+Tópico
+String
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba uma frase e mostre cada palavra dela em uma linha separada . Exemplo : Frase : COMPUTADORES SÃO MÁQUINAS POTENTES Saída : COMPUTADORESb\nSÃO \nMÁQUINAS \nPOTENTES 
+Entradas
+O Hexa eh do Brasil
+Saídas
+O
+Hexa
+eh
+do
+Brasil

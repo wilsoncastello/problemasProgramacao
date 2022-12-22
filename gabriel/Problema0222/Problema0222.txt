@@ -7,23 +7,22 @@ Médio
 Descrição
 Para um inteiro positivo N informado pelo usuário, construa um algoritmo que informe se esse valor é primo ou não. Um número inteiro positivo N é primo se não for divisível exatamente por nenhum valor , exceto o 1 e ele mesmo.
 Entradas
-0
 1
 2
 3
 4
 5
+6
 7
+21
 23
 Saídas
-nao primo
 primo
 primo
 primo
 nao primo
 primo
+nao primo 
 primo
+nao primo
 primo
-
-
-

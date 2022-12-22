@@ -1,0 +1,12 @@
+Código
+0313
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia N números inteiros positivos, armazene-os em um vetor e imprima a localização do último número par, se houver algum valor par.
+Entradas
+[1  2   3   4   5   6   7   8   9   10]
+Saídas
+9

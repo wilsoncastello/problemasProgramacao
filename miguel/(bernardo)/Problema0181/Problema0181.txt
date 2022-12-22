@@ -1,0 +1,12 @@
+Código	
+0181
+Tópico	
+Repetição
+Dificuldade	
+Muito fácil
+Descrição	
+Imprimir os 10 primeiros números pares.
+Entradas
+-Sem entradas-
+Saídas
+0  2  4  6  8  10  12  14  16  18  20

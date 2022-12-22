@@ -1,0 +1,14 @@
+Código	
+0166
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Faça um programa que receba a idade, o peso, a altura, a cor dos olhos(A-azul; P-preto; V-verde; e C-castanho) e a cor dos cabelos (P-preto; C-castanho; L-louro; e R-ruivo) de seis pessoas, e que calcule e mostre: * A quantiade de pessoas com idade superior a 50 anos e peso inferior a 60 kg; * A média das idades das pessoas com altura inferior a 1,50m; * A porcentagem de pessoas com olhos azuis entre todas as pessoas analizadas; e * A quantidade de pessoas ruivas e que não possuem olhos azuis.
+Entradas
+[60  60  1.49  'P'  'P']  [50  59  1.50  'V'  'C']  [60  60  1.49  'C'  'L']  [50  59  1.50  'P'  'P']  [60  60  1.49  'V'  'C']  [50  59  1.50  'C'  'L']
+[60  59  1.49  'A'  'P']  [50  50  1.50  'P'  'C']  [60  59  1.49  'V'  'L']  [50  60  1.50  'A'  'P']  [60  59  1.49  'A'  'R']  [50  60  1.50  'P'  'R']
+Saídas
+0  60  0  0
+3  60  50  1

@@ -1,0 +1,13 @@
+Código
+0425
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Crie uma função que calcule o numero de combinações de n elementos p a p. Esta função deve chamar outra função que calcula o fatorial de um número inteiro. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+5
+3
+Saídas
+10

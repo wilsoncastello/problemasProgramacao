@@ -1,0 +1,16 @@
+Código
+0146
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Elabore um programa que leia o nome de duas pessoas e imprima-os em ordem alfabética.
+Entradas
+Ana Marcos
+Pedro Helen
+Vivian Lucas
+Saídas
+Ana Marcos
+Helen Pedro
+Lucas Vivian

@@ -1,0 +1,16 @@
+Código
+0070
+Topico
+Expressões
+Dificuldade
+Médio
+Descrição
+Escreva um algoritmo que tome como entrada dois valores inteiros diferentes de zero, A e B, e imprima uma mensagem dizendo se A e B são ou não múltiplos um do outro.
+Entradas
+10  5
+90  3
+86  12
+Saídas
+true
+true
+false

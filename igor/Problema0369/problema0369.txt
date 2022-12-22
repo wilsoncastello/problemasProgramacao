@@ -1,0 +1,12 @@
+Código	
+0369
+Tópico	
+Matrizes
+Dificuldade	
+Médio
+Descrição	
+Crie um programa que preencha uma matriz 5 x 5 com números inteiros, calcule e mostre quais elementos da matriz se repetem e quantas vezes cada um se repete.
+Entradas
+[1 2 2 3 4] [4 2 6 5 7] [8 2 3 5 6] [2 9 6 12 4]    [5 7 3 4 8]
+Saídas
+[2 5]  [3 3]  [4 4]  [5 3]  [6 3]  [7 2]  [8 2]

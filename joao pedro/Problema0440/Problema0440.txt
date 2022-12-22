@@ -1,0 +1,28 @@
+Código
+0440
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+
+          Seja X um vetor com N elementos inteiros. Escreva uma função que forneça como
+          resultado
+          a posição do primeiro valor negativo do arranjo X. Caso X não contenha nenhum
+          negativo, a função deve fornecer
+          como resultado o valor -1. Em seguida, crie um programa que leias os dados
+          necessários, chame a função e apresente o
+          valor retornado por ela.
+
+Entradas
+1 2 3
+
+1 2 -3
+
+2 -9 4
+Saidas
+-1
+
+2
+
+1   

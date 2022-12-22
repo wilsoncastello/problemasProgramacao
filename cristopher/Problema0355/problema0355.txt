@@ -1,0 +1,12 @@
+Código
+0355
+Tópico
+String
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba uma frase e, cada vez que aparecer nela um algarismo entre 0 e 9, substitua-o, escrevendo-o por extenso. Exemplo: Frase: EU ESTOU NA POLTRONA 5. Saída: EU ESTOU NA POLTRONA CINCO. 
+Entradas
+eu tenho 2 cachorros
+Saídas
+eu tenho dois cachorros

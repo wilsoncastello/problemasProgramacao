@@ -1,0 +1,35 @@
+Código
+0450
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+
+          Faça um programa contendo uma função que receba dois valores numéricos e um
+          símbolo (+, -, * e /).
+          Esse símbolo representará a operação que se deseja efetuar com os números. O
+          programa deve possibilitar
+          que o usuário faça vários cálculos, sendo terminado quando o usuário digitar
+          # como símbolo.
+
+Entradas
+4 4 +
+
+2 3 /
+
+1 1 -
+
+5 10 *
+
+Saidas
+8
+
+0.66
+
+0
+
+50
+
+
+         

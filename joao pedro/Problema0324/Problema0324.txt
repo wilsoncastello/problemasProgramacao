@@ -1,0 +1,24 @@
+Código
+0324
+Tópico
+String 
+Dificuldade
+Fácil
+Descrição
+Crie um algoritmo que entre com uma palavra e imprima conforme exemplo a seguir: 
+palavra: SONHO 
+           SONHO
+        SONHO SONHO
+     SONHO SONHO SONHO
+   SONHO SONHO SONHO SONHO
+SONHO SONHO SONHO SONHO SONHO
+
+Entradas
+abacaxi
+
+Saídas
+               abacaxi
+           abacaxi  abacaxi
+        abacaxi  abacaxi  abacaxi
+     abacaxi  abacaxi  abacaxi  abacaxi
+  abacaxi  abacaxi  abacaxi  abacaxi  abacaxi

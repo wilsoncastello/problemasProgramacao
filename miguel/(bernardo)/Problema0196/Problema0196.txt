@@ -1,0 +1,16 @@
+Código	
+0196
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Crie um algoritmo que calcule o produto de dois números inteiros lidos, usando o método de somas sucessivas. Por exemplo 4 x 3 = 4 + 4 + 4. Suponha que os números lidos sejam positivos.
+Entradas
+0  1
+1  2
+2  3
+Saídas
+0
+2
+6

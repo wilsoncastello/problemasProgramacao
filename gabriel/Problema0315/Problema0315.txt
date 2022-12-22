@@ -1,0 +1,14 @@
+Código
+0315
+Tópico
+Vetores
+Dificuldade
+Difícil
+Descrição
+Construa um programa que leia 15 elementos numéricos inteiros e armazene-os em um vetor A , crie um vetor B de mesmo tipo e dimensão, em que cada elemento seja o fatorial do elemento correspondente armazenado no vetor A e apresente os elementos do vetor B ordenados de forma crescente.
+Entradas
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+[-1, -2, -3, -4, -5, -6, 0, 0, 0, 3, 2, 1]
+Saídas
+[1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 362880]
+[1, 1, 1, 1, 2, 6]

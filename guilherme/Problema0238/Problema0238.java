@@ -40,4 +40,3 @@ public class Problema0238{
         }
     }
 }
-    

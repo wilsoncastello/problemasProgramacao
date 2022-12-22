@@ -1,0 +1,12 @@
+Código
+0246
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Elaborar  um programa que leia dois vetores para o armazenamento de nomes de pessoas, sendo o vetor A  com 5 elementos e o vetor B com 10 elementos. Construir um vetor C, sendo este a junção dos vetores A e B. Desta forma, o vetor C deve ter a capacidade de armazenar 15 elementos. Apresentar o vetor C.
+Entradas
+[Ana, Andreia, João, Pedro, Henrique]   [Suelen, Omar, Patrícia, Luís, Luíza, Carol, Rian, Júlia, Talia, Kauan]
+Saída
+[Ana, Andreia, João, Pedro, Henrique, Suelen, Omar, Patrícia, Luís, Luíza, Carol, Rian, Júlia, Talia, Kauan]

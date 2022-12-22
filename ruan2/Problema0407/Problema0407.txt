@@ -1,0 +1,20 @@
+Código
+0407
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Crie uma função que receba como parâmetro um valor inteiro e positivo N e retorne o valor de S, obtido pelo seguinte cálculo: S = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!.  Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+3
+10
+5
+2
+7
+Saída
+2.6666666666666665
+2.7182818011463845
+2.7166666666666663
+2.5
+2.7182539682539684

@@ -1,0 +1,13 @@
+Código
+0375
+Tópico
+Matrizes
+Dificuldade
+Fácil
+Descrição
+Crie um programa que preencha duas matrizes 3 x 4 com números inteiros, calcule e mostre:  a soma das duas matrizes, resultando em uma terceira matriz também de ordem 3 x 4;  a diferença das duas matrizes, resultando em uma quarta matriz também de ordem 3 x 4.
+Entradas
+[[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]]    [[21, 1, 10], [5, 0, 3], [1, 1, 0], [2, 9, 13]]
+Saída
+[[22, 3, 13], [9, 5, 9], [8, 9, 9], [12, 20, 25]]
+[[-20, 1, -7], [-1, 5, 3],[6, 7, 9], [8, 2, -1]]

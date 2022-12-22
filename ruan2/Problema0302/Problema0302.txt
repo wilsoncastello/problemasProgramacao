@@ -1,0 +1,18 @@
+Código
+0302
+Tópico
+Vetores
+Dificuldade
+Difícil
+Descrição
+Escreva um algoritmo que tome como entrada um valor inteiro expresso na base 10 e imprima o valor correspondente na base 2
+Entradas
+5
+10
+34
+50
+Saída
+101
+1010
+100010
+110010

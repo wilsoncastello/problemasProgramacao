@@ -1,0 +1,15 @@
+Código
+0378
+Tópico
+Matrizes
+Dificuldade
+Fácil
+Descrição
+Faça um programa que preencha uma matriz 4 x 3 de inteiros, calcule e mostre a média dos elementos das linhas pares da matriz.
+Entradas
+[[3, 5, 6], [1, 1, 1], [2, 2, 0], [3, 1, 1]]
+[[2, 3.5, 1], [2, 3, 1], [2, 89, 9.3], [1, 2, 3]]
+
+Saídas
+3
+17.8

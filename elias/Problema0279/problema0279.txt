@@ -1,0 +1,15 @@
+Código
+0279
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia um vetor com dez posições para números inteiros. Crie um segundo vetor, substituindo os valores negativos por 0. 
+Mostre os dois vetores.
+Entradas
+[1, 23, -4, 3, -11, -2, 7, 9, 8, -10]
+[-1, 2, -3, 4, -5, 6, -7, 8, -9, 10]
+Saídas
+[1, 23, 0, 3, 0, 0, 7, 9, 8, 0]
+[0, 2, 0, 4, 0, 6, 0, 8, 0, 10]

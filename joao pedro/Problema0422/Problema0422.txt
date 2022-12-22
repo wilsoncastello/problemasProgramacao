@@ -1,0 +1,18 @@
+Código
+0422
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Crie uma função que recebe um caractere como parâmetro e retorne 1, caso seja uma consoante, 0 se for vogal e -1 se for outro tipo de caractere.  Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+
+Entradas
+a
+p
+)
+
+Saidas
+0
+1
+-1

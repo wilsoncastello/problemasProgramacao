@@ -1,0 +1,16 @@
+Código
+0161
+Tópico
+Repetição
+Dificuldade
+Fácil
+Descrição
+Faça um programa que receba um número, calcule e mostre a tabuada desse número. Exemplo: Digite o número 5; 5 x 0 = 0 , 5 x 1 = 5 , 5 x 2 =10  ... 5 x 10 = 50
+Entradas
+5
+2
+8
+Saídas
+5 x 0 = 0   5 x 1 = 5   5 x 2 = 10  5 x 3 = 15  5 x 4 = 20  5 x 5 = 25  5 x 6 = 30  5 x 7 = 35  5 x 8 = 40  5 x 9 = 45  5 x 10 = 50
+2 x 0 = 0   2 x 1 = 2   2 x 2 = 4  2 x 3 = 6  2 x 4 = 8  2 x 5 = 10  2 x 6 = 12  2 x 7 = 14  2 x 8 = 16  2 x 9 = 18  2 x 10 = 20
+8 x 0 = 0   8 x 1 = 8   8 x 2 = 16  8 x 3 = 24  8 x 4 = 32  8 x 5 = 40  8 x 6 = 48  8 x 7 = 56  8 x 8 = 64  8 x 9 = 72  8 x 10 = 80
