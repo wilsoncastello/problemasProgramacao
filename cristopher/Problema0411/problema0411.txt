@@ -1,0 +1,12 @@
+Código
+0411
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Crie uma função que receba como parâmetro dois vetores de cinco elementos inteiros positivos A e B e mostre o vetor união C dos dois primeiros (se um elemento estiver presente nos vetores A e B ele deve ser incluído apenas uma vez no vetor C).  Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+[1, 2, 3, 4, 5]   [1, 2, 3, 6, 10]
+Saídas
+[1, 2, 3, 4, 5, 6, 10]

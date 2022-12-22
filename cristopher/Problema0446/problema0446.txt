@@ -1,0 +1,15 @@
+Código
+0446
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Foi realizada uma pesquisa entre 10 habitantes de uma região. Os dados coletados de cada habitante foram: idade, salario, numero de filhos.  Faça um programa que leia esses dados e armazene-os em vetores. Depois, crie funções que recebam esses vetores como parâmetros e retornem: a media salarial dos habitantes; a maior e a menor idade do grupo; e a quantidade de mulheres com três filhos que recebem até R$ 500,00 (ultilize uma função para cada cálculo e uma função para apresentar todos os resultados). 
+Entradas
+[5, 10, 15, 20, 25, 30, 35, 40, 45, 50]   [200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000]   [3, 3, 3, 1, 2, 2, 2, 1, 0, 0]
+Saídas
+1100
+50
+5
+2

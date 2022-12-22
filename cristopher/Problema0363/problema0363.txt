@@ -1,0 +1,12 @@
+Código
+0363
+Tópico
+Matrizes
+Dificuldade
+Médio
+Descrição
+Faça um programa que preencha: um vetor com oito posições, contendo nomes de lojas;  outro vetor com quatro posições, com nomes de produtos; uma matriz com os preços de todos os produtos em cada loja. O programa deverá mostrar todas as relações (nome do produto — nome da loja) em que o preço não ultrapasse R$ 120,00.                                                                                                                                                              
+Entradas
+[A, B, C, D, E, F, G, H]   [a, b, c, d]   [[0, 0, 0, 0], [1, 1, 1, 1], [2, 2, 2, 2], [3, 3, 3, 3], [4, 4, 4, 4], [120, 1000, 1000, 1000], [1000, 120, 1000, 1000], [1000, 1000, 120, 1000]]  
+Saídas
+A-a   A-b   A-c   A-d   B-a   B-b   B-c   B-d   C-a   C-b   C-c   C-d   D-a   D-b   D-c   D-d   E-a   E-b   E-c   E-d   F-a   G-b   H-c

@@ -1,0 +1,12 @@
+Código
+0328
+Tópico
+String
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia o sexo de várias pessoas e imprimir quantas pessoas são do sexo masculino (considerar m ou M).
+Entradas
+[f   F   M   m   M   m   M   m   M   m]
+Saídas
+8

@@ -1,0 +1,12 @@
+Código
+0341
+Tópico
+String
+Dificuldade
+Fácil
+Descrição
+Faça um programa que receba uma frase com letras minúsculas e converta a primeira letra de cada palavra da frase para maiúscula . Exemplo : Entrada : fazer exercícios faz bem . Saída : Fazer Exercícios Faz Bem . 
+Entradas
+instituto federal de santa catarina
+Saídas
+Instituto Federal De Santa Catarina

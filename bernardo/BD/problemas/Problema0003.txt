@@ -1,0 +1,16 @@
+Código
+0003
+Tópico
+Expressões
+Dificuldade
+Fácil
+Descrição
+Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+Entradas
+10      3       10      5       10      2
+8.2     3       10      2       9.5     4
+6.7     4       9.5     3       7.8     3
+Saídas
+10
+9.17777777777777
+7.86999999999999
