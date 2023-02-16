@@ -1,0 +1,16 @@
+Código
+0426
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Um numero é capicuia quando lido da esquerda para a direita ou da direita para a esquerda. O ano 2002 é um ano capicuia. 
+Elabore uma função que verifique essa caracteristica.  Em seguida, crie um programa que leias os dados necessários, 
+chame a função e apresente o valor retornado por ela.
+Entradas
+1001
+1998
+Saídas
+true
+false

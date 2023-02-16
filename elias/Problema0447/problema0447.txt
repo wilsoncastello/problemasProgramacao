@@ -1,0 +1,10 @@
+Código
+0447
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Faça uma função que receba um vetor A de 10 elementos inteiros como parâmetro e retorne um vetor B que deve conter os elementos de A que sejam 
+maiores que zero. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas

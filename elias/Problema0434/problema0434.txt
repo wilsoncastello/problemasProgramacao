@@ -1,0 +1,9 @@
+Código
+0434
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Elabore um programa que leia três valores (A, B e C) e apresente como resultado o quadrado da soma dos três valores lidos. 
+Este cálculo deve ser feito por uma função.

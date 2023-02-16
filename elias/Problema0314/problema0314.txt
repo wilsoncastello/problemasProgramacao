@@ -1,0 +1,16 @@
+Código
+0314
+Tópico
+Vetores
+Dificuldade
+Médio
+Descição
+Escreva um algoritmo que, para um vetor X de N elementos, determine o número de vezes que cada valor apareceu no vetor. Exemplo:  
+[3, 7, 6, 3, 6, 7, 7, 0, 4] 
+3 apareceu 2 vezes  
+7 apareceu 3 vezes  
+6 apareceu 2 vezes  
+0 apareceu 1 vez  
+4 apareceu 1 vez.
+Entradas
+

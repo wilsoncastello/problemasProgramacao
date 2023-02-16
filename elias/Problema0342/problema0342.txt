@@ -1,0 +1,22 @@
+Código
+0342
+Tópico
+String
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba um nome e gere como saída o nome digitado e seu login. A login é formado pela primeira letra do nome e, 
+caso exista apenas um sobrenome, este sobrenome; caso existam dois sobrenomes , deve - se gerar a primeira letra do nome, mais a primeira 
+letra do primeiro sobrenome, seguido do último sobrenome; caso existam três ou mais sobrenomes, deve - se proceder como na situação anterior, 
+considerando o nome, o primeiro sobrenome e o último sobrenome. Lembre-se que o login só pode possuir letras minúsculas.
+Exemplos : 
+
+Nome : Pedro Hansdorf
+Login phansdorf
+ 
+Nome : Robson Soares Silva 
+Login : rssilva 
+
+Nome : Jaqueline Oliveira Fernandes Espanhola 
+Login : joespanhola.
+Entradas

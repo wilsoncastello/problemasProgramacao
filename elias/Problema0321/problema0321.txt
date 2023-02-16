@@ -1,0 +1,25 @@
+Código
+0321
+Tópico
+String
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia um nome e imprima: 
+O nome digitado; 
+O primeiro caractere; 
+O ultimo caractere; 
+Do primeiro ate o terceiro caractere;  
+O quarto caractere; 
+Os dois ultimos caracteres;
+Entradas
+Maria
+Cristiano
+Saídas
+O nome digitado:                                Maria       Cristiano
+O primeiro caractere:                             M            C
+O ultimo caractere:                               a            o
+Do primeiro ate o terceiro caractere:            Mar          Cri
+O quarto caractere:                               i            s
+Os dois ultimos caracteres:                       ia           no
+

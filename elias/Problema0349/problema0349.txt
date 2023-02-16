@@ -1,0 +1,10 @@
+Código
+0349
+Tópico
+String
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba uma frase e gere uma nova, retirando os espaços em branco excedentes no início e no fim da frase e entre 
+suas palavras .
+Entradas

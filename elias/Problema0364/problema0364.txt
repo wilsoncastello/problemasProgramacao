@@ -1,0 +1,26 @@
+Código
+0364
+Tópico
+Matrizes
+Dificuldade
+Médio
+Descrição
+Crie um programa que preencha uma matriz 5 x 4 com números inteiros e some cada uma das linhas, armazenando o resultado das somas em um vetor. 
+A seguir, o programa deverá multiplicar cada elemento da matriz pela soma da linha correspondente e mostrar a matriz resultante.
+Entradas
+    Teste 1:                    Teste 2:
+1   2   3   4                   21  22  23  24
+5   6   7   8                   25  26  27  28
+9   10  11  12                  29  30  31  32
+13  14  15  16                  33  34  35  36
+17  18  19  20                  37  38  39  40
+Saídas
+    Teste 1:                        Teste 2:
+A matriz resultante é:          A matrzi resultante é:
+10   20   30   40               1890 1980 2070 2160
+130  156  182  208              2650 2756 2862 2968
+378  420  462  504              3538 3660 3782 3904
+754  812  870  928              4554 4692 4830 4968
+1258 1332 1406 1480             5698 5852 6006 6160
+
+

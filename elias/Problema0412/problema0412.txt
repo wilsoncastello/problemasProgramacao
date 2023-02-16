@@ -1,0 +1,9 @@
+Código
+0412
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Faça uma função que receba como parâmetro um vetor A com cinco números reais e retorne esses números ordenados de forma crescente.  
+Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.

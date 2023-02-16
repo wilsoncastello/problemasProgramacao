@@ -1,0 +1,9 @@
+Código
+0419
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Crie um algoritmo que receba um número que corresponda a um mês e escreva o mês correspondente; caso o usuário digite o número fora do 
+intervalo deverá aparecer uma mensagem avisando.Utilize uma função do tipo void. 

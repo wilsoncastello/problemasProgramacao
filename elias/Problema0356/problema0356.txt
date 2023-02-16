@@ -1,0 +1,9 @@
+Código
+0356
+Tópico
+String
+Dificuldade
+Fácil
+Descrição
+Faça um programa que receba uma frase e mostre quantas letras, quantos números e quantos espaços existem nela .
+Entradas

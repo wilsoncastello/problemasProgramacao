@@ -1,0 +1,10 @@
+Código
+0384
+Tópico
+Matrizes
+Dificuldade
+Médio
+Descrição
+Criar um algoritmo que leia os elementos de uma matriz inteira 5 x 5 e escreva todos os elementos, exceto os elementos da diagonal principal. 
+No lugar destes elementos o programa deve imprimir o símbolo @.
+Entradas
