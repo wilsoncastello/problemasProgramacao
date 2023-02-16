@@ -1,0 +1,14 @@
+Código	
+0267
+Tópico	
+Vetores
+Dificuldade
+Difícil
+Descrição
+Faça um programa que simule um controle bancário. Para tanto, devem ser lidos os códigos de dez contas e seus respectivos saldos. Os códigos devem ser armazenados em um vetor de números inteiros (não pode haver mais de uma conta com o mesmo código) e os saldos devem ser armazenados em um vetor de números reais. O saldo deverá ser cadastrado na mesma posição do código. Por exemplo, se a conta 504 foi armazenada na quinta posição do vetor de códigos, seu saldo deverá ficar na quinta posição do vetor de saldos. Depois de fazer a leitura dos valores, deverá aparecer o seguinte menu na tela: 1. Efetuar depósito 2. Efetuar saque 3. Consultar Saldo 4. Consultar o ativo bancário, ou seja, o somatório dos saldos de todos os clientes 5. Finalizar o programa. *para efetuar depósito, deve-se solicitar o código da conta e o valor a ser depositado. Se a conta não estiver cadastrada, deverá aparecer a mensagem Conta não encontrada e voltar ao menu. Se a conta existir, atualizar seu saldo; *para efetuar saque, deve-se solicitar o código da conta e o valor a ser sacado. Se a conta não estiver cadastrada, deverá aparecer a mensagem Conta não encontrada e voltar ao menu. Se a conta existir, verificar se o seu saldo é suficiente para cobrir o saque. (Estamos supondo que a conta não possa ficar com o saldo negativo.) Se o saldo for suficiente, realizar o saque e voltar ao menu. Caso contrário, mostrar a mensagem Saldo insuficiente e voltar ao menu; * para consultar o saldo, deve-se solicitar o código da conta. Se a conta não estiver cadastrada, deverá aparecer a mensagem Conta não encontrada e voltar ao menu. Se a conta existir, deve-se apresentar o seu saldo; *para consultar o ativo bancário, deve-se somar o saldo de todas as contas do banco. Depois de mostrar esse valor, voltar ao menu; *o programa só termina quando for digitada a opção 5. Finalizar o programa. 
+Entradas
+[1,  100]  [2,  200]  [3,  300]  [4,  400]  [5,  500]  [6,  600]  [7,  700]  [8,  800]  [9,  900]  [10, 1000]  4  3  2  5
+[1,  100]  [2,  200]  [3,  300]  [4,  400]  [5,  500]  [6,  600]  [7,  700]  [8,  800]  [9,  900]  [10, 1000]  1  [1, 100]  2  [2,  100]  3  2  4  5
+Saídas
+5500  300
+100  5600

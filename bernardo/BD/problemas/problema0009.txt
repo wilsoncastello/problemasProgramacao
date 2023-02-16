@@ -1,0 +1,18 @@
+Código	
+0009
+Tópico	
+Expressões
+Dificuldade	
+Médio	
+Descrição	
+Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
+Entradas
+2	3
+4	5
+9	0.5
+2.5	3.2
+Saídas
+8.0
+1024.0
+3.0
+16.469334365968074

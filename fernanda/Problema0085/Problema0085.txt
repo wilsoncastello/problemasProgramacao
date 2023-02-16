@@ -1,0 +1,16 @@
+Código
+0085
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Considere que determinado concurso seja composto pelas seguintes provas: Português, Matemática e Conhecimentos Gerais. Considere também que para um candidato sabe-se o seu nome e as notas obtidas em cada uma das provas . Deseja-se construir um algoritmo que mostre o nome do candidato, a nota obtida em cada e a média do candidato. Considere ainda que se deseja saber se o candidato foi aprovado no concurso. Para ser aprovado, a média aritmética das três provas deve ser igual ou superior a 7
+Entradas
+Paula   8   10  7
+Caio   9   8   5
+Julio   5   3   8
+Saídas
+Paula    8   10  7   8.3 Aprovado
+Caio   9   8   5    7.3 Aprovado
+Julio   5   3   8   5.3 Não Aprovado

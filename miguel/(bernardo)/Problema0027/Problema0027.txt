@@ -1,0 +1,16 @@
+Código	
+0027
+Tópico	
+Expressões
+Dificuldade	
+Fácil
+Descrição
+Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
+Entradas
+0.5
+1
+1.5
+Saídas
+500
+1000
+1500

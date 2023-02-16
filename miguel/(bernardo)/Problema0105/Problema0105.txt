@@ -1,0 +1,14 @@
+Código	
+0105
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição
+Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação. Menu de opções: 1. Somar dois números. 2. Raiz quadrada de um número. Digite a opção desejada:
+Entradas
+1  1  2
+2  4
+Saídas
+3
+2

@@ -1,0 +1,12 @@
+Código
+0306
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Elabore um programa que leia um vetor A com dez elementos inteiros positivos, construa um vetor B de mesmo tipo, em que cada elemento da matriz B deve ser o valor negativo do elemento correspondente da matriz A. 
+Entradas
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Saídas
+[-1, -2, -3, -4, -5, -6, -7, -8, -9, -10]

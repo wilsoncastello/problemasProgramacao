@@ -1,0 +1,13 @@
+Código
+0320
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+Elabore um programa que leia dois vetores A e B de uma dimensão com 5 elementos cada. A deve aceitar apenas a entrada de valores divisíveis por 2 ou 3, enquanto a B deve aceitar apenas a entrada de valores que não sejam múltiplos de 5. A entrada dos vetores deve ser validada pelo programa e não pelo usuário. Construa um vetor C que seja o resultado da junção da junção de A e B, de forma que contenha 10 elementos. Apresente os elementos de C.
+Entradas
+[2   3   4   6   8]
+[9   11   12   13   14]
+Saídas
+[2   3   4   6   8   9   11   12   13   14]

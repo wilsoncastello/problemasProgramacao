@@ -1,0 +1,12 @@
+Código
+0383
+Tópico
+Matrizes
+Dificuldade
+Fácil
+Descrição
+Faça um programa que leia uma matriz de ordem 3 x 4 e imprima a sua matriz transposta.
+Entradas
+[[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+Saídas
+[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]

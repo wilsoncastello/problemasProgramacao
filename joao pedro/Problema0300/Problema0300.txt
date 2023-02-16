@@ -1,0 +1,15 @@
+Código
+0300
+Tópico
+Vetores
+Dificuldade
+Médio
+Descrição
+
+Entradas
+Tamanho 3       4
+Valores 1 1 1   9 8 4 5
+Y       2       5
+
+Saidas
+2 1 1   9 8 4 5

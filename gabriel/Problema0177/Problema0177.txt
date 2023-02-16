@@ -1,0 +1,16 @@
+Código
+0177
+Tópico
+Repetiçao
+Dificuldade
+Médio
+Descrição
+Faça um programa que receba um conjunto de valores inteiros e positivos, calcule e mostre o maior e o menor valor do conjunto. Considere que: *Para encerrar a entrada de dados, deve ser digitado o valor zero; *Para valores negativos, deve ser enviada uma mensagem; *Os valores negativos ou iguais a zero não entrarão nos cálculos.
+Entradas
+-1  -2  1   2   0
+-3  2   1   22  0
+20  10  9   20  0   
+Saídas
+1   2
+1   22
+9   20

@@ -1,0 +1,16 @@
+Código	
+0330
+Tópico	
+String
+Dificuldade	
+Médio
+Descrição
+Faça um programa que receba uma frase, calcule e mostre a quantidade de palavras da frase digitada.
+Entradas
+bla bla bla
+ideia musical completa, delimitada por uma cadência
+Hello world!
+Saídas
+3  
+7
+2

@@ -1,0 +1,16 @@
+Código	
+0226
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição	
+Construa um algoritmo que , para a progressão geométrica 3 ; 9 ; 27 ; 81 ; ... ; 6561 , determine a soma até o enésimo termo. Construa o algoritmo de forma a não utilizar a fórmula de soma dos termos . Faça com que o computador gere cada termo a ser somado. 
+Entradas
+1
+2
+3
+Saídas
+3
+12
+39

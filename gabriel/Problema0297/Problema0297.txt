@@ -1,0 +1,14 @@
+Código
+0297
+Tópico
+Vetores
+Dificuldade
+Difícil
+Descrição
+Faça um programa que leia o nome, CPF e profissão de 100 pessoas e imprima uma lista com as profissões informadas e quantas pessoas possuem aquela profissão.
+Entradas
+[1, 1, a], [2, 2, b], [3, 3, a], [4, 4, a], [5, 5, a], [6, 6, a], [7, 7, a], [8, 8, a], [9, 9, a], [10, 10, a]
+[1, 1, bombeiro], [2, 2, policial], [3, 3, professor], [3, 3, professor], [3, 3, policial], [3, 3, policial], [3, 3, bombeiro], [3, 3, professor], [3, 3, professor], [3, 3, bombeiro],
+Saídas
+[a : 9 vezes], [b : 1 vezes]
+[bombeiro : 3 vezes], [policial : 3 vezes], [professor : 4 vezes]

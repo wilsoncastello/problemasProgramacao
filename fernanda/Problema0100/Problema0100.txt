@@ -1,0 +1,18 @@
+Código
+0100
+Tópico
+Seleção
+Dificuldade
+Fácil
+Descrição
+Faça um algoritmo que, dada a idade de um nadador, classifique-o em uma das seguintes categorias: Infantil (5 -10 anos); Juvenil (11 - 17 anos); Adulto (18 - 60 anos); Senior (Acima de 60 anos).
+Entradas
+5
+16
+34
+61
+Saídas
+Categoria Infantil
+Categoria Juvenil
+Categoria Adulto
+Categoria Senior

@@ -1,0 +1,15 @@
+Código	
+0365
+Tópico	
+Matrizes
+Dificuldade	
+Médio
+Descrição
+Na teoria dos sistemas, define-se o elemento MINMAX de uma matriz como o maior elemento da linha em que se encontra o menor elemento da matriz. 
+Elabore um programa que carregue uma matriz 4 x 3 com números reais, calcule e mostre seu MINMAX e sua posição (linha e coluna).
+Entradas
+[[3, 5, 7],[8, 9, 1],[5, 6, 4],[2, 3, 10]]
+[[10, 20, 4],[4, 5, 6],[7, 8, 9],[1, 2, 3]]
+Saídas
+9
+3

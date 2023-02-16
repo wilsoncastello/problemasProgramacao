@@ -1,0 +1,44 @@
+Código
+0343
+Tópico
+Strings
+Dificuldade
+Médio
+Descrição
+"Faça um programa que receba uma frase. Caso na frase apareça o nome de um mês do ano por extenso, o programa deverá substituí-lo pelo seu número correspondente, como no exemplo. 
+Exemplo : 
+Frase : NO MÊS DE JANEIRO FAZ CALOR.
+Nova frase : NO MÊS 01 FAZ CALOR."
+Exemplo: a prova foi adiada
+* A letra A apareceu 5 vezes
+* A letra O apareceu 2 vezes
+* A letra I apareceu 2 vezes 
+* A letra D apareceu 2 vezes 
+Entradas
+a de janeiro A
+b de fevereiro b
+c de marco c
+d de abril d
+e de maio e
+de junho
+de julho
+de agosto
+de setembro
+de outubro
+de novembro
+de dezembro
+sem nenhum dos meses
+Saídas
+a 1 a
+b 2 b
+c 3 c
+d 4 d
+e 5 e
+6
+7
+8
+9
+10
+11
+12
+sem nenhum dos meses

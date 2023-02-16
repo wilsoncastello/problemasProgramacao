@@ -1,0 +1,17 @@
+Código	
+0120
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição
+Entrar com o salário de uma pessoa e imprimir o desconto do INSS segundo a tabela a seguir: (menor ou igual a R$ 600,00|||isento); (maior que R$ 600,00 e menor ou igual a R$ 1200,00|||20%); (maior que R$ 1200,00 e menor ou igual a R$2000,00|||25%); (maior que R$ 2000,00|||30%)
+600
+1200
+2000
+2100	
+Saídas
+0
+240
+500
+630

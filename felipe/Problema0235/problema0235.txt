@@ -1,0 +1,12 @@
+Código	
+0235
+Tópico	
+Repetição
+Dificuldade	
+Médio
+Descrição
+Faça um algoritmo para calcular o valor de A , onde : A = 1 / 1 + 3/2 + 5/3 + 7/4 + ... + 49/25
+Entradas
+A
+Saídas
+1.96

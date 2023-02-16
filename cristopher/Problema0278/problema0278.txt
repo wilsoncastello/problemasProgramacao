@@ -1,0 +1,13 @@
+Código
+0278
+Tópico
+Vetores
+Dificuldade
+Fácil
+Descrição
+Faça um programa que preencha um vetor com dez números, determine e mostre: * o maior número e a posição por ele ocupada no vetor; *o menor número e a posição por ele ocupada no vetor.
+Entradas
+[24, 7, -5, 19, 32, -77, 412, 1008, 911, 2]
+Saídas
+O maior numero é 1008 e sua posição é 7.
+O menor numero é -77 e sua posição é 5.

@@ -1,0 +1,15 @@
+Código
+0390
+Tópico
+Matrizes
+Dificuldade
+Médio
+Descrição
+Crie um algoritmo que leia uma matriz 5 x 5 inteira e apresente uma determinada linha da matriz solicitada pelo usuário. O programa deve solicitar e apresentar linhas, até que o usuário digite -1.
+Entradas
+[[1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14, 15], [16, 17, 18, 19, 20], [21, 22, 23, 24, 25]]
+0
+2
+Saídas
+[1, 2, 3, 4, 5]
+[11, 12, 13, 14, 15]

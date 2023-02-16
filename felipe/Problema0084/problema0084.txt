@@ -1,0 +1,16 @@
+Código	
+0084
+Tópico	
+Seleção
+Dificuldade	
+Médio
+Descrição
+Sejam A, B e C números inteiros, diferentes um do outro. Faça um programa que leia esses números e determine qual o maior valor.
+Entradas
+99  10  12
+12  50  30
+13  48  79
+Saídas
+99
+50
+79

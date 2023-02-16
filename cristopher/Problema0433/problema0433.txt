@@ -1,0 +1,16 @@
+Código
+0433
+Tópico
+Funções
+Dificuldade
+Médio
+Descrição
+Crie uma função que receba um vetor de inteiros e seu tamanho e retorne 1 se o vetor estiver ordenado de forma crescente, 2 se o vetor estiver ordenado de forma decrescente ou 0 zero se o vetor não estiver ordenado. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+[1, 2, 3, 4, 5]
+[5, 4, 3, 2, 1]
+[8, 3, 2, 1, 5]
+Saídas
+1
+2
+0

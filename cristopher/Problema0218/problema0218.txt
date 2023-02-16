@@ -1,0 +1,18 @@
+Código
+0262
+Tópico
+Funções
+Dificuldade
+Difícil
+Descrição
+Segundo a conjectura de Goldbach, qualquer número par maior que dois pode ser escrito como a soma de dois números primos. Exemplos: 8 = 3+5, 16 = 11+5, 68 = 31+37. Construa um algoritmo que tome como entrada N números pares e, para cada número, imprima um par de números primos cuja soma seja igual ao próprio número.  
+Entradas
+8
+100
+44
+5
+Saídas
+8 = 3 + 5
+100 = 3 + 97
+44 = 3 + 41
+Número inválido.

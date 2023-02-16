@@ -1,0 +1,14 @@
+Código	
+0059
+Tópico	
+Expressões
+Dificuldade	
+Médio
+Descrição
+Escrever uma expressão lógica que, usando o valor do ano no calendário gregoriano, valha "verdadeiro" caso o ano seja bissexto ou valha "falso" caso não seja bissexto.
+Entradas
+2020
+2021
+Saídas
+true
+false

@@ -1,0 +1,17 @@
+Código	
+0374
+Tópico	
+Matrizes
+Dificuldade	
+Mpedio	
+Descrição	
+Crie um programa que receba as vendas diárias durante uma semana (6 dias úteis) de cinco vendedores de uma loja e armazene essas vendas em uma matriz. O programa deverá calcular e mostrar: o total de vendas da semana de cada vendedor; o total de vendas de cada dia (todos os vendedores juntos); o total de vendas da semana.
+Entradas
+[
+[5   8   6   9   3   2],
+[10  4   12  5   9   3],
+[5   7   9   12  11  4],
+[10  13  15  5   7   9],
+[4   3   8   6  10  12],
+Saídas
+33   43   48   59   43  [34  45  50  37  40  30]   226    

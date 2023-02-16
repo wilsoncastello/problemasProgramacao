@@ -1,0 +1,12 @@
+Código
+0418
+Tópico
+Funções
+Dificuldade
+Fácil
+Descrição
+Criar uma função que converta radianos para graus. Em seguida, crie um programa que leias os dados necessários, chame a função e apresente o valor retornado por ela.
+Entradas
+120
+Saídas
+2.0933333333333333    

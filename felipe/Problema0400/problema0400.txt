@@ -1,0 +1,13 @@
+Código	
+0400
+Tópico	
+Matrizes
+Dificuldade	
+Médio
+Descrição
+Faça um algoritmo que, leia uma matriz A 4 x 4 e, 
+em seguida, um conjunto de três valores, e determine quantos dos valores do conjunto estão contidos na matriz. 
+Entradas
+[[1,2,3,4],[5,6,7,8],[9,10,11,22],[32,51,54,65]]    1   45  54
+Saídas
+2
